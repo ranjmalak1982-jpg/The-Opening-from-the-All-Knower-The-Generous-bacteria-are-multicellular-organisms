@@ -5,298 +5,298 @@ Endless thanks to My Lord (Allah the Almighty) who guided me from the darkness t
  
 Table of Contents
 Special Thanks:	1
-Introduction:	2
-Mahadevan (2002) says:	5
-1. Chapter one: bacteria are well known for spreading infections and outbreaks	7
-1.1. biofilms are the causes of outbreaks	7
-1.2. yersinia pestis in the past that caused plague had a biofilm: the plague has been confirmed to cause deaths for many millennia	7
-1.3. Cholera (Vibrio cholerae):	9
-1.4. Typhoid Fever (Salmonella enterica serovar Typhi):	10
-1.5. Legionnaires' Disease (Legionella pneumophila):	11
-1.6. Tuberculosis (Mycobacterium tuberculosis):	12
-1.7. Does the above support the Multicellularity Theory?	13
-1.8. conclusion of chapter one:	15
-2. Chapter two: characteristics of a multicellular biofilm:	17
-2.1. Biofilm and microbiome: sound waves production, communication and the effects of sound waves	17
-2.2. Do biofilms feel? Do they have tactile sensation? Biofilms and reshaping:	20
-2.3. Bacteria can sense light:	25
-2.3.1. Discussion	29
-2.4 visualization of biofilms by humans?	30
-2.4.1 Seeing the biofilms:  one of the points that a person would have an argument about is that if biofilms were multicellular organisms which act a single unit most humans would have seen them by the naked eye or at least under the light microscope. The answer would be in sections	30
-2.4.2.  Vibration of Biofilms	32
-2.4.3. different sizes of biofilms?	34
-2.4.4. discussion:	35
-2.5. viruses, fungi and other microorganisms and their relationship to bacterial biofilms:	36
-2.5.1. Can viruses be an active part of the biofilms?	37
-2.5.2. Fungi can also form biofilms:	44
-2.6. can biofilms and their followers arrange or be classified into nations and tribes?	54
-2.6.1. Biofilms and the killing among the components of different biofilms:	55
-2.6.2. Conclusions:	61
-2.7. mechanical components and mechanical properties of different biofilms?	61
-2.7.1. Do biofilms have mechanical components used for food?	61
-2.7.2. mechanical properties of biofilms that renders them to be thought as multicellular:	65
-2.7.3. Conclusion:	68
-2.8.  The different types of biofilms according to vast arrays of environmental conditions	69
-2.8.1. Marine microbiome:	69
-2.8.2. Virus biofilms and fungal biofilms in the deep seas:	73
-2.8.3. Microbiomes of the atmosphere:	79
-2.8.4. Soil microbiomes:	81
-2.8.5. Biofilms inside trashes:	90
-2.8.6. Bacteria in the outer space and their remains on meteors:	96
-2.8.7. conclusion:	102
-2.9. Specialization of cells among a single biofilm:	103
-2.9.1. Electrical Conduits and Respiration Specialists	103
-2.9.2. Electrical Signallers and Long-Distance Communicators	103
-2.9.3. Memory Encoders and Information Processors	104
-2.9.4. Division of Labor and Task Specialists	106
-2.9.5. Environmental Niche Specialists (Stress and Waste Management)	108
-2.9.6. Distributed Intelligence and Systemic Behaviour:	109
-2.9.7. Conclusion:	111
-2.10. Microbes and sunlight:	112
-2.10.1. UV Radiation and Viruses	113
-2.10.2. UV Radiation and Bacterial Biofilms	113
-2.10.3. UV Radiation and Fungal Biofilms	114
-2.10.4. Visible Light (Blue Light) and Biofilms	114
-2.10.5. Solar Radiation and Environmental Decay	115
-2.10.6. conclusion:	115
-2.11. Circadian rhythm in biofilms and microbiomes:	116
-2.11.1. circadian rhythm in photosynthetic bacteria:	116
-2.11.2. Evidences of Circadian Rhythms in Non-Photosynthetic Bacteria	119
-2.11.3. Evidence for "Night-Shift" (Nocturnal) Activity	119
-2.11.4. Circadian Rhythms as a Multicellular Tool	121
-2.11.5. Conclusion:	122
-2.12. Bacteria in modern medicine are found to exist much before humans.	123
-2.13. Bacterial life span:	124
-2.13.1. Modern/Clinical Lifespan (Months to Decades)	125
-2.13.2. Environmental Lifespan (Centuries to Millennia)	126
-2.13.3. The "Deep Biosphere" (Millions of Years?)	126
-2.13.4. Why Do They Live So Long? (Mechanical Persistence)	127
-2.13.5. Conclusion	127
-2.14. Biofilms and bacterial movements:	128
-2.14.1. Biofilms in Water: The "Slithering" and "Rippling" Speed	129
-2.14.2. Atmospheric Biofilms: The "Ballistic" and "Terminal" Speed	130
-2.14.3. The "Multicellular" Adaptation to Speed	130
-2.14.4. conclusion:	131
-2.15. Bacteria and fungi can produce certain products of alcoholics:	132
-conclusion	133
-2.16. The Microbiome of healthy canines:	134
-2.16.1. How the Canine Microbiota Reshapes Itself	136
-2.16.2. Survival and Transfer: From Dogs to Humans	139
-2.16.3. conclusion	140
-2.17. Some animals and their microbiome:	140
-2.17.1. Reshaping the Snake Gut: Feast, Famine, and Venom	144
-2.17.2. Conclusion:	146
-2.18. Microbiome of donkeys:	146
-Conclusion:	148
-2.19. Do biofilms have embryo like stages?	149
-2.19. 1. The Phylostratigraphic Evidence (The "Hourglass" Model)	150
-2.19.2. conclusion:	151
-2.20. different sizes of biofilms:	151
-2.20.1. Deep-Sea Microbial Mats (The "Kilometer" Scale)	152
-2.20.2. Snottites and Cave Biofilms (The "Curtain" Scale)	152
-2.20.3. Giant Single-Cell Colonies: Thiomargarita magnifica	153
-2.20.4. Conclusion:	154
-2.21. chapter summary:	154
-3. Chapter two: the attached biofilms to a human being and their impacts on the attached human physiology:	159
-3.1. Human’s attached microbiota dates back to?	159
-3.1.1.  Tracking Ancient Human Migration via Microbes (Helicobacter pylori)	161
-3.1.2. Direct Evidence from Ancient DNA: Coprolites (Paleofeces)	162
-3.1.3. Deep-Time Oral Microbiomes: Neanderthals and Early Hominins	162
-3.1.4. Summary and conclusion:	163
-3.2. The Human gut microbiota before, during and after birth	163
-Conclusion:	167
-3.3. Does Human blood microbiome present?	167
-Conclusion and summary:	170
-3.4. ear canal microbiome:	170
-3.4.1. The composition of earwax and ear bacteria?	170
-3.4.2. Can the Gut Microbiome Contribute to Hearing Loss?	173
-3.4.3. Conclusion:	175
-3.5. Nasal microbiota	175
-3.5.1. Nasal microbiota and sleep apnea:	176
-3.5.2. The History of the Nasal Microbiota	177
-3.5.3. How the Nasal Microbiota Influences Sleep Apnea	178
-3.5.4. Conclusion:	180
-3.6. Skin microbiota:	180
-3.5.1. skin microbiota and their role in producing skin diseases :	182
-3.5.2. The Timeline: history of the Skin Microbiome Over a Lifespan	185
-3.5.3.  Influences on Skin Immunity	187
-3.5.4. The Microbiome's Role in Skin Diseases	188
-3.7. human gastrointestinal microbiome:	189
-3.7.1. The mouth microbiota:	189
-3.7.2. GUT Microbiota:	194
-3.7.3. Stomach microbiome and outbreaks of infections:	200
-3.7.4. Gut Microbiota among spouses and siblings of mankind:	205
-3.7.5. Conclusion:	210
-3.8. The genital microbiome and uterine microbiota	211
-3.8.1. The presence of genital microbiome and uterine microbiota and its role in menorrhagia and infertility	211
-3.8.2. Infertility and miscarriages and the uterine microbiota	216
-3.8.3. Gut and urinary bladder microbiota and their role in urgency and their presence in toilets:	224
-3.9. The virome of the humans:	232
-3.9.1. The Timeline of the Gut Virome	235
-3.9.2. The Relationship Between Viruses and Bacteria (The Tripartite Network)	236
-3.9.3. The Virome's Role in Changing Host Immunity	237
-3.9.4. Conclusion:	238
-3.10. Flatulence and the gut microbiome:	238
-1. The Thermodynamic Bottleneck (Interspecies Hydrogen Transfer)	240
-2. Interference and Chemical Warfare	241
-3. The Multicellular Link: Spatial Architecture	243
-Conclusion	244
-3.11. Human hair microbiome:	244
-3.11.1. the timeline of microbiota and non-infectious diseases caused by them:	245
-Conclusion:	246
-3.12. Microbiota and hunger and thirst:	246
-3.12.1. microbiota and the hunger and thirst physiology:	246
-3.12.2. Diseases Linked to Microbiota-Altered Hunger and Thirst	250
-3.12.3. Conclusion	252
-3.13. The Microbiota responsible for most of human diseases:	252
-3.13.1. Systemic Links to Non-Infectious Diseases	253
-3.13.2. The "Genius" of the Microbiota: Beyond Single Cells	254
-3.13. 3. Implications for the Multicellularity Theory	255
-3.13.4. conclusion,	257
-3.14. summary of chapter two:	258
-4. Chapter three: Some of the effects of the attached microbiomes on humans:	259
-4.1. Forgetfulness and its relationship to the human microbiome:	259
-4.1.1. how do microbiota affect the long term memory:	259
-4.1.2. Microbiota Affecting Short-Term Memory	263
-4.1.3. Why Does the Microbiota Interfere with Host Memory?	265
-4.1.4. Strengthening the Multicellularity Theory	266
-4.1.5. The Multicellular in Cognitive Biology	266
-4.1.6. Synthesis of Implications	268
-4.1.7. Philosophical Conclusion	269
-4.2. The relationship between fatigue and human microbiomes:	269
-4.2.1. the relationship between gut microbiota and long-term fatigue	269
-4.2.2. Short-Term Impacts of the Microbiome on Fatigue	271
-4.2.3. Implications for Multicellularity Theory	273
-4.2.4. Summary:	274
-4.3. The role of the microbiome in the physiology of sleep:	275
-4.3.1. the relationship between gut dysbiosis and sleep:	275
-4.3.2. The Microbiota's Impact on Sleep Physiology:	276
-4.3.3. Pathological Implications of Sleep Disturbance and Dysbiosis	277
-4.3.4. The Link to the Multicellularity of Microbiota	278
-4.3.5. Summary:	280
-4.4. Epilepsy and the causative factors?	281
-4.4.1. gut dysbiosis and epilepsy:	281
-4.4.2. The Role of Microbial Metabolites in Epilepsy	282
-4.4.3. Advancing Methodological Approaches	284
-4.4.4. Reinforcing the Multicellularity Perspective	285
-4.4.5. Conclusion	286
-4.5. What is the association between the gut microbiome and paranoia and anger bursts?	286
-4.5.1. gut dysbiosis and anger:	286
-4.5.2. The Implication of Metabolites in Paranoia and Psychosis	289
-4.5.3. Short-Term vs. Long-Term Effects on Humans	290
-4.5.4. Required Further Studies	292
-4.5.5. Solidifying the Microbiota Multicellularity Theory	293
-4.5.6. conclusion:	294
-4.6. Depression and insomnia can microbiota have a relation?	295
-4.6.1. derpression and pathophysiology of sleep and relationship to microbiota:	295
-4.6.2. The Direct Link Between Metabolites and Depressive Abnormalities	299
-4.6.3. Temporal Dynamics of the Gut-Brain Axis: Acute Versus Chronic Effects	300
-4.6.4. Methodological Priorities for Advancing Research	302
-4.6.5. Supporting the Theory of Microbial Multicellularity	303
-4.6.6. Conclusion	304
-4.7. The human microbiome and the sensation of fear:	305
-4.7.1. gut microbiota and relationship to phobia:	305
-4.7.2. The Direct Link Between Metabolites and Phobia (Fear Extinction)	307
-4.7.3. Short-Term vs. Long-Term Effects on Humans	309
-4.7.4. Concreting the Microbiota Multicellularity Theory	310
-4.7.5. Conclusion:	311
-4.8. The Human behavior and the microbiome:	312
-4.8.1. human behavior shaped by the microbiome:	312
-4.8.2. Further Compelling Evidence of Behavioral Shaping in Humans and Microbiome Influence on Complex Neurological Conditions	316
-4.8.3. The "Sleep-Foraging" Hypothesis: Theoretical Microbial Influence on Parasomnias	318
-4.8.4. Implications for Evolutionary Biology: The Multicellular Paradigm	319
-4.8.5. Conclusion:	320
-4.9. Gut Microbiota and heart diseases:	321
-4.9.1. the possibility of arterial diseases and cardiac disease to be caused by microbiota	321
-4.9.2. The Existence of a "Heart" or "Vascular" Microbiome	324
-4.9.3. Implications for Human Heart Disease	326
-4.9.4. The Link to Biofilm Multicellularity	328
-4.9.5. Conclusion:	330
-4.10. The role of human microbiome in different types of pain:	330
-4.10.1. neuropathies and microbiome	330
-4.10.2. Modulating the Degree and Type of Pain Sensation	332
-4.10.3. Clinical Manifestations of Microbiome-Induced Pain	334
-4.10.4. Implications for the Multicellularity and Multicellular Theories	335
-4.10.5. conclusion	336
-4.11. Can microbiome and humans enjoy or benefit each other?	337
-4.11.1. what is the effect of the virome on the human microbiota and what are the benefits shared among humans and microbiota:	337
-4.11.2. Microbial Contributions to Host Physiology: The Metabolic Engine	341
-4.11.4. Host Contributions to Microbial Fitness: The Engineered Biosphere	343
-4.11.4. Implications for the Microbial Multicellularity Theory	344
-4.11.5. Conclusion	346
-4.12. What are other ways that microbiome affect humans other than infection and psychiatric diseases and direct effect?	347
-4.12.1. some other diseases and the microbiome:	347
-4.12.2. Mechanisms of Trans-Kingdom Genetic Interference	351
-4.12.3. Pathogenic Manifestations of Microbial Genetic Hijacking	352
-4.12.4. The Autoimmune Paradigm: Systemic Lupus Erythematosus (SLE)	353
-4.12.5. Synthesis: The Multicellular Biofilm Theory	354
-4.13. Summary of Chapter Three	355
-5. Chapter four: Good deeds and bad deeds affect the human gut microbiota	358
-5.1. Fasting and the Microbiome:	358
-5.1.1. a positive shift in the gut microbiome and health:	358
-5.1.2. The Shift Toward a Homeostatic Microbiome	359
-5.1.3. Implications for the Multicellularity Theory	361
-5.1.4. Conclusion:	363
-5.2. Microbiome and meditation:	364
-5.2.1. view of a paper	364
-5.2.2. Empirical Evidence of Meditation's Impact on the Microbiome	365
-5.2.3. Engineering a Homeostatic Microbiome Environment	367
-5.2.4. Implications for the Theory of Microbial Multicellularity	367
-5.2.5. Conclusion:	369
-5.3. Microbiota and physical activity:	369
-5.3.1. brief review of the evidences:	369
-5.3.2. Gut Microbiota Enriched by Physical Activity	371
-5.3.3. Multi-Systemic Microbiome Modulation	372
-5.3.4. Empirical Evidence in Human Cohorts	374
-5.3.5. Implications for the Multicellularity Theories	375
-5.4. Carnivores and herbivores microbiota:	377
-5.4.1. An intro:	377
-5.4.2. Distinct Microbiota Sets: The Herbivore vs. Carnivore Divide	379
-5.4.3. Metabolic Outputs and Host Health Implications	381
-5.4.4. Implications for the Biofilm Multicellularity Theory	382
-5.4.5. Conclusion:	384
-5.5. Natural remedies as antibiofilm:	384
-5.5.1. Natural remedies are good source for antibiofilms.	384
-5.5.2. Quorum Sensing Inhibitors: Disrupting Intercellular Communication	386
-5.5.3. EPS Matrix Degraders: Structural Destabilization	387
-5.5.4. Membrane Disruptors: Essential Oils	389
-5.5.5. Substantiating the Theory of Microbial Multicellularity	390
-5.6. Mense and the uterine and cervical microbiota:	391
-5.6.1. A review:	391
-5.6.2. Menstruation-Induced Shifts in the Vaginal Microbiome	392
-5.6.3. The Impact of High-Frequency Sexual Activity	393
-5.6.4. Advantages of Multicellularity and Biofilm Formation	394
-5.6.5. summary:	396
-5.7. Gut microbiota and alcoholism:	397
-5.7.1 A review:	397
-5.7.2. Alcohol-Induced Dysbiosis: The Shift Toward Pathogenic Microbiota	397
-5.7.3. Mechanisms of Pathogenesis: The Gut-Liver Axis	398
-5.7.4. The Evolutionary Advantages of Multicellularity	400
-5.7.5. Summary:	401
-5.8. Anal sex and the virome and the gut microbiota:	401
-5.8.1. general review:	401
-5.8.2. Ecological Shifts in the Rectal Microbiome and Virome	403
-5.8.3. Mechanisms of Mucosal Disruption and Immune Activation	404
-5.8.4. Evolutionary Perspectives: The Benefits of Multicellularity	405
-5.8.5. Conclusion	406
-5.9. Addictive drugs and Gut microbiota:	407
-5.9.1. A quick review:	407
-5.9.2. Substance-Induced Dysbiosis: The Shift Toward Pathogenic Microbiota	408
-5.9.3. The Pathogenesis of Dependence, Withdrawal, and Neuroinflammation	409
-5.9.4. Evolutionary Biology: The Vulnerabilities of Multicellularity	411
-5.9.5. Conclusion	413
-5.10. Summary and Conclusion: Chapter Four	413
-Synthesis of Findings	413
-Key Convergent Principles	413
-The Inescapable Conclusion	417
-Final Synthesis	418
-6. Grand conclusion:	420
-1. Biofilms as the Primary Unit of Bacterial Life	420
-2. Complex Organization Resembling Eukaryotic Life	420
-3. Ancient Historical Resilience	421
-4. Redefining the Human Organism:	421
-5. Final Synthesis	421
-References	423
+Introduction:	11
+Mahadevan (2002) says:	14
+1. Chapter one: bacteria are well known for spreading infections and outbreaks	16
+1.1. biofilms are the causes of outbreaks	16
+1.2. yersinia pestis in the past that caused plague had a biofilm: the plague has been confirmed to cause deaths for many millennia	16
+1.3. Cholera (Vibrio cholerae):	18
+1.4. Typhoid Fever (Salmonella enterica serovar Typhi):	19
+1.5. Legionnaires' Disease (Legionella pneumophila):	20
+1.6. Tuberculosis (Mycobacterium tuberculosis):	21
+1.7. Does the above support the Multicellularity Theory?	22
+1.8. conclusion of chapter one:	24
+2. Chapter two: characteristics of a multicellular biofilm:	26
+2.1. Biofilm and microbiome: sound waves production, communication and the effects of sound waves	26
+2.2. Do biofilms feel? Do they have tactile sensation? Biofilms and reshaping:	29
+2.3. Bacteria can sense light:	34
+2.3.1. Discussion	38
+2.4 visualization of biofilms by humans?	38
+2.4.1 Seeing the biofilms:  one of the points that a person would have an argument about is that if biofilms were multicellular organisms which act a single unit most humans would have seen them by the naked eye or at least under the light microscope. The answer would be in sections	38
+2.4.2.  Vibration of Biofilms	41
+2.4.3. different sizes of biofilms?	42
+2.4.4. discussion:	43
+2.5. viruses, fungi and other microorganisms and their relationship to bacterial biofilms:	44
+2.5.1. Can viruses be an active part of the biofilms?	45
+2.5.2. Fungi can also form biofilms:	52
+2.6. can biofilms and their followers arrange or be classified into nations and tribes?	63
+2.6.1. Biofilms and the killing among the components of different biofilms:	64
+2.6.2. Conclusions:	69
+2.7. mechanical components and mechanical properties of different biofilms?	70
+2.7.1. Do biofilms have mechanical components used for food?	70
+2.7.2. mechanical properties of biofilms that renders them to be thought as multicellular:	73
+2.7.3. Conclusion:	76
+2.8.  The different types of biofilms according to vast arrays of environmental conditions	77
+2.8.1. Marine microbiome:	78
+2.8.2. Virus biofilms and fungal biofilms in the deep seas:	81
+2.8.3. Microbiomes of the atmosphere:	87
+2.8.4. Soil microbiomes:	89
+2.8.5. Biofilms inside trashes:	98
+2.8.6. Bacteria in the outer space and their remains on meteors:	104
+2.8.7. conclusion:	110
+2.9. Specialization of cells among a single biofilm:	111
+2.9.1. Electrical Conduits and Respiration Specialists	111
+2.9.2. Electrical Signallers and Long-Distance Communicators	111
+2.9.3. Memory Encoders and Information Processors	112
+2.9.4. Division of Labor and Task Specialists	114
+2.9.5. Environmental Niche Specialists (Stress and Waste Management)	116
+2.9.6. Distributed Intelligence and Systemic Behaviour:	117
+2.9.7. Conclusion:	119
+2.10. Microbes and sunlight:	120
+2.10.1. UV Radiation and Viruses	121
+2.10.2. UV Radiation and Bacterial Biofilms	122
+2.10.3. UV Radiation and Fungal Biofilms	122
+2.10.4. Visible Light (Blue Light) and Biofilms	122
+2.10.5. Solar Radiation and Environmental Decay	123
+2.10.6. conclusion:	123
+2.11. Circadian rhythm in biofilms and microbiomes:	124
+2.11.1. circadian rhythm in photosynthetic bacteria:	124
+2.11.2. Evidences of Circadian Rhythms in Non-Photosynthetic Bacteria	127
+2.11.3. Evidence for "Night-Shift" (Nocturnal) Activity	127
+2.11.4. Circadian Rhythms as a Multicellular Tool	129
+2.11.5. Conclusion:	130
+2.12. Bacteria in modern medicine are found to exist much before humans.	131
+2.13. Bacterial life span:	132
+2.13.1. Modern/Clinical Lifespan (Months to Decades)	133
+2.13.2. Environmental Lifespan (Centuries to Millennia)	134
+2.13.3. The "Deep Biosphere" (Millions of Years?)	134
+2.13.4. Why Do They Live So Long? (Mechanical Persistence)	134
+2.13.5. Conclusion	135
+2.14. Biofilms and bacterial movements:	136
+2.14.1. Biofilms in Water: The "Slithering" and "Rippling" Speed	136
+2.14.2. Atmospheric Biofilms: The "Ballistic" and "Terminal" Speed	138
+2.14.3. The "Multicellular" Adaptation to Speed	138
+2.14.4. conclusion:	139
+2.15. Bacteria and fungi can produce certain products of alcoholics:	139
+conclusion	141
+2.16. The Microbiome of healthy canines:	142
+2.16.1. How the Canine Microbiota Reshapes Itself	144
+2.16.2. Survival and Transfer: From Dogs to Humans	147
+2.16.3. conclusion	148
+2.17. Some animals and their microbiome:	148
+2.17.1. Reshaping the Snake Gut: Feast, Famine, and Venom	151
+2.17.2. Conclusion:	154
+2.18. Microbiome of donkeys:	154
+Conclusion:	156
+2.19. Do biofilms have embryo like stages?	156
+2.19. 1. The Phylostratigraphic Evidence (The "Hourglass" Model)	158
+2.19.2. conclusion:	159
+2.20. different sizes of biofilms:	159
+2.20.1. Deep-Sea Microbial Mats (The "Kilometer" Scale)	159
+2.20.2. Snottites and Cave Biofilms (The "Curtain" Scale)	160
+2.20.3. Giant Single-Cell Colonies: Thiomargarita magnifica	161
+2.20.4. Conclusion:	162
+2.21. chapter summary:	162
+3. Chapter two: the attached biofilms to a human being and their impacts on the attached human physiology:	167
+3.1. Human’s attached microbiota dates back to?	167
+3.1.1.  Tracking Ancient Human Migration via Microbes (Helicobacter pylori)	169
+3.1.2. Direct Evidence from Ancient DNA: Coprolites (Paleofeces)	170
+3.1.3. Deep-Time Oral Microbiomes: Neanderthals and Early Hominins	170
+3.1.4. Summary and conclusion:	171
+3.2. The Human gut microbiota before, during and after birth	171
+Conclusion:	175
+3.3. Does Human blood microbiome present?	175
+Conclusion and summary:	178
+3.4. ear canal microbiome:	178
+3.4.1. The composition of earwax and ear bacteria?	178
+3.4.2. Can the Gut Microbiome Contribute to Hearing Loss?	181
+3.4.3. Conclusion:	183
+3.5. Nasal microbiota	183
+3.5.1. Nasal microbiota and sleep apnea:	184
+3.5.2. The History of the Nasal Microbiota	185
+3.5.3. How the Nasal Microbiota Influences Sleep Apnea	186
+3.5.4. Conclusion:	188
+3.6. Skin microbiota:	189
+3.5.1. skin microbiota and their role in producing skin diseases :	191
+3.5.2. The Timeline: history of the Skin Microbiome Over a Lifespan	193
+3.5.3.  Influences on Skin Immunity	195
+3.5.4. The Microbiome's Role in Skin Diseases	196
+3.7. human gastrointestinal microbiome:	198
+3.7.1. The mouth microbiota:	198
+3.7.2. GUT Microbiota:	202
+3.7.3. Stomach microbiome and outbreaks of infections:	208
+3.7.4. Gut Microbiota among spouses and siblings of mankind:	213
+3.7.5. Conclusion:	217
+3.8. The genital microbiome and uterine microbiota	218
+3.8.1. The presence of genital microbiome and uterine microbiota and its role in menorrhagia and infertility	218
+3.8.2. Infertility and miscarriages and the uterine microbiota	224
+3.8.3. Gut and urinary bladder microbiota and their role in urgency and their presence in toilets:	232
+3.9. The virome of the humans:	240
+3.9.1. The Timeline of the Gut Virome	242
+3.9.2. The Relationship Between Viruses and Bacteria (The Tripartite Network)	244
+3.9.3. The Virome's Role in Changing Host Immunity	244
+3.9.4. Conclusion:	245
+3.10. Flatulence and the gut microbiome:	246
+1. The Thermodynamic Bottleneck (Interspecies Hydrogen Transfer)	247
+2. Interference and Chemical Warfare	249
+3. The Multicellular Link: Spatial Architecture	250
+Conclusion	251
+3.11. Human hair microbiome:	251
+3.11.1. the timeline of microbiota and non-infectious diseases caused by them:	252
+Conclusion:	253
+3.12. Microbiota and hunger and thirst:	254
+3.12.1. microbiota and the hunger and thirst physiology:	254
+3.12.2. Diseases Linked to Microbiota-Altered Hunger and Thirst	257
+3.12.3. Conclusion	259
+3.13. The Microbiota responsible for most of human diseases:	260
+3.13.1. Systemic Links to Non-Infectious Diseases	260
+3.13.2. The "Genius" of the Microbiota: Beyond Single Cells	262
+3.13. 3. Implications for the Multicellularity Theory	263
+3.13.4. conclusion,	264
+3.14. summary of chapter two:	265
+4. Chapter three: Some of the effects of the attached microbiomes on humans:	266
+4.1. Forgetfulness and its relationship to the human microbiome:	266
+4.1.1. how do microbiota affect the long term memory:	266
+4.1.2. Microbiota Affecting Short-Term Memory	270
+4.1.3. Why Does the Microbiota Interfere with Host Memory?	271
+4.1.4. Strengthening the Multicellularity Theory	272
+4.1.5. The Multicellular in Cognitive Biology	273
+4.1.6. Synthesis of Implications	275
+4.1.7. Philosophical Conclusion	275
+4.2. The relationship between fatigue and human microbiomes:	276
+4.2.1. the relationship between gut microbiota and long-term fatigue	276
+4.2.2. Short-Term Impacts of the Microbiome on Fatigue	278
+4.2.3. Implications for Multicellularity Theory	279
+4.2.4. Summary:	281
+4.3. The role of the microbiome in the physiology of sleep:	281
+4.3.1. the relationship between gut dysbiosis and sleep:	281
+4.3.2. The Microbiota's Impact on Sleep Physiology:	283
+4.3.3. Pathological Implications of Sleep Disturbance and Dysbiosis	284
+4.3.4. The Link to the Multicellularity of Microbiota	285
+4.3.5. Summary:	287
+4.4. Epilepsy and the causative factors?	287
+4.4.1. gut dysbiosis and epilepsy:	287
+4.4.2. The Role of Microbial Metabolites in Epilepsy	289
+4.4.3. Advancing Methodological Approaches	291
+4.4.4. Reinforcing the Multicellularity Perspective	292
+4.4.5. Conclusion	293
+4.5. What is the association between the gut microbiome and paranoia and anger bursts?	293
+4.5.1. gut dysbiosis and anger:	293
+4.5.2. The Implication of Metabolites in Paranoia and Psychosis	296
+4.5.3. Short-Term vs. Long-Term Effects on Humans	297
+4.5.4. Required Further Studies	299
+4.5.5. Solidifying the Microbiota Multicellularity Theory	300
+4.5.6. conclusion:	301
+4.6. Depression and insomnia can microbiota have a relation?	302
+4.6.1. derpression and pathophysiology of sleep and relationship to microbiota:	302
+4.6.2. The Direct Link Between Metabolites and Depressive Abnormalities	305
+4.6.3. Temporal Dynamics of the Gut-Brain Axis: Acute Versus Chronic Effects	307
+4.6.4. Methodological Priorities for Advancing Research	309
+4.6.5. Supporting the Theory of Microbial Multicellularity	310
+4.6.6. Conclusion	311
+4.7. The human microbiome and the sensation of fear:	312
+4.7.1. gut microbiota and relationship to phobia:	312
+4.7.2. The Direct Link Between Metabolites and Phobia (Fear Extinction)	314
+4.7.3. Short-Term vs. Long-Term Effects on Humans	315
+4.7.4. Concreting the Microbiota Multicellularity Theory	317
+4.7.5. Conclusion:	318
+4.8. The Human behavior and the microbiome:	319
+4.8.1. human behavior shaped by the microbiome:	319
+4.8.2. Further Compelling Evidence of Behavioral Shaping in Humans and Microbiome Influence on Complex Neurological Conditions	323
+4.8.3. The "Sleep-Foraging" Hypothesis: Theoretical Microbial Influence on Parasomnias	325
+4.8.4. Implications for AdaptationalBiology: The Multicellular Paradigm	326
+4.8.5. Conclusion:	327
+4.9. Gut Microbiota and heart diseases:	328
+4.9.1. the possibility of arterial diseases and cardiac disease to be caused by microbiota	328
+4.9.2. The Existence of a "Heart" or "Vascular" Microbiome	331
+4.9.3. Implications for Human Heart Disease	333
+4.9.4. The Link to Biofilm Multicellularity	335
+4.9.5. Conclusion:	337
+4.10. The role of human microbiome in different types of pain:	337
+4.10.1. neuropathies and microbiome	337
+4.10.2. Modulating the Degree and Type of Pain Sensation	339
+4.10.3. Clinical Manifestations of Microbiome-Induced Pain	341
+4.10.4. Implications for the Multicellularity and Multicellular Theories	342
+4.10.5. conclusion	343
+4.11. Can microbiome and humans enjoy or benefit each other?	344
+4.11.1. what is the effect of the virome on the human microbiota and what are the benefits shared among humans and microbiota:	344
+4.11.2. Microbial Contributions to Host Physiology: The Metabolic Engine	348
+4.11.4. Host Contributions to Microbial Fitness: The Engineered Biosphere	350
+4.11.4. Implications for the Microbial Multicellularity Theory	351
+4.11.5. Conclusion	352
+4.12. What are other ways that microbiome affect humans other than infection and psychiatric diseases and direct effect?	353
+4.12.1. some other diseases and the microbiome:	353
+4.12.2. Mechanisms of Trans-Kingdom Genetic Interference	358
+4.12.3. Pathogenic Manifestations of Microbial Genetic Hijacking	359
+4.12.4. The Autoimmune Paradigm: Systemic Lupus Erythematosus (SLE)	360
+4.12.5. Synthesis: The Multicellular Biofilm Theory	361
+4.13. Summary of Chapter Three	361
+5. Chapter four: Good deeds and bad deeds affect the human gut microbiota	364
+5.1. Fasting and the Microbiome:	364
+5.1.1. a positive shift in the gut microbiome and health:	364
+5.1.2. The Shift Toward a Homeostatic Microbiome	365
+5.1.3. Implications for the Multicellularity Theory	367
+5.1.4. Conclusion:	369
+5.2. Microbiome and meditation:	370
+5.2.1. view of a paper	370
+5.2.2. Empirical Evidence of Meditation's Impact on the Microbiome	371
+5.2.3. Engineering a Homeostatic Microbiome Environment	372
+5.2.4. Implications for the Theory of Microbial Multicellularity	373
+5.2.5. Conclusion:	375
+5.3. Microbiota and physical activity:	375
+5.3.1. brief review of the evidences:	375
+5.3.2. Gut Microbiota Enriched by Physical Activity	377
+5.3.3. Multi-Systemic Microbiome Modulation	378
+5.3.4. Empirical Evidence in Human Cohorts	380
+5.3.5. Implications for the Multicellularity Theories	381
+5.4. Carnivores and herbivores microbiota:	383
+5.4.1. An intro:	383
+5.4.2. Distinct Microbiota Sets: The Herbivore vs. Carnivore Divide	385
+5.4.3. Metabolic Outputs and Host Health Implications	387
+5.4.4. Implications for the Biofilm Multicellularity Theory	388
+5.4.5. Conclusion:	390
+5.5. Natural remedies as antibiofilm:	390
+5.5.1. Natural remedies are good source for antibiofilms.	390
+5.5.2. Quorum Sensing Inhibitors: Disrupting Intercellular Communication	392
+5.5.3. EPS Matrix Degraders: Structural Destabilization	393
+5.5.4. Membrane Disruptors: Essential Oils	395
+5.5.5. Substantiating the Theory of Microbial Multicellularity	396
+5.6. Mense and the uterine and cervical microbiota:	397
+5.6.1. A review:	397
+5.6.2. Menstruation-Induced Shifts in the Vaginal Microbiome	398
+5.6.3. The Impact of High-Frequency Sexual Activity	399
+5.6.4. Advantages of Multicellularity and Biofilm Formation	400
+5.6.5. summary:	402
+5.7. Gut microbiota and alcoholism:	403
+5.7.1 A review:	403
+5.7.2. Alcohol-Induced Dysbiosis: The Shift Toward Pathogenic Microbiota	403
+5.7.3. Mechanisms of Pathogenesis: The Gut-Liver Axis	404
+5.7.4. The AdaptationalAdvantages of Multicellularity	406
+5.7.5. Summary:	407
+5.8. Anal sex and the virome and the gut microbiota:	407
+5.8.1. general review:	407
+5.8.2. Ecological Shifts in the Rectal Microbiome and Virome	409
+5.8.3. Mechanisms of Mucosal Disruption and Immune Activation	410
+5.8.4. AdaptationalPerspectives: The Benefits of Multicellularity	411
+5.8.5. Conclusion	412
+5.9. Addictive drugs and Gut microbiota:	413
+5.9.1. A quick review:	413
+5.9.2. Substance-Induced Dysbiosis: The Shift Toward Pathogenic Microbiota	414
+5.9.3. The Pathogenesis of Dependence, Withdrawal, and Neuroinflammation	415
+5.9.4. AdaptationalBiology: The Vulnerabilities of Multicellularity	417
+5.9.5. Conclusion	419
+5.10. Summary and Conclusion: Chapter Four	419
+Synthesis of Findings	419
+Key Convergent Principles	420
+The Inescapable Conclusion	423
+Final Synthesis	424
+6. Grand conclusion:	426
+1. Biofilms as the Primary Unit of Bacterial Life	426
+2. Complex Organization Resembling Eukaryotic Life	426
+3. Ancient Historical Resilience	427
+4. Redefining the Human Organism:	427
+5. Final Synthesis	427
+References	429
 
  
 Introduction: 
@@ -317,13 +317,13 @@ Mahadevan (2002) says: “One take-home message from these studies is that we ma
 Dolgushin & Mezentseva (2020), have discussed (page 469): It was Well known for years that bacteria were invading the human bodies in planktonic cells and were disrupting the host immune system by the multiplications of bacterial cells  . Also, Azeredo et al. (2016) discussed  (page 314): it was known that these cells would will act solely and are not bind to their counterparts of the same species.  Moreover, in recent years this was slowly turning to become a bit old as the labs showed that bacterial infections as well were caused by bacterial biofilms.  
 1.2. yersinia pestis in the past that caused plague had a biofilm: the plague has been confirmed to cause deaths for many millennia 
 Studies have shown that the multicellular form (biofilm) is also the existing form for Yersinia Pestis.
-Hinnebusch BJ, Erickson DL. (2008) say:” Transmission by fleabite is a relatively recent evolutionary adaptation of Yersinia pestis, the bacterial agent of bubonic plague. To produce a transmissible infection, Y. pestis grows as an attached biofilm in the foregut of the flea vector. Biofilm formation both in the flea foregut and in vitro is dependent on an extracellular matrix (ECM) synthesized by the Yersinia hms gene products” .
+Hinnebusch BJ, Erickson DL. (2008) say:” Transmission by fleabite is a relatively recent adaptationaladaptation of Yersinia pestis, the bacterial agent of bubonic plague. To produce a transmissible infection, Y. pestis grows as an attached biofilm in the foregut of the flea vector. Biofilm formation both in the flea foregut and in vitro is dependent on an extracellular matrix (ECM) synthesized by the Yersinia hms gene products” .
       
 Image. 7 Y. Pestis biofilm inside the flea. Image taken from http://www.ncbi.nlm.nih.gov/pmc/articles/instance/3727414/bin/nihms489972f4.jpg
  
  Image.8 Y. Pestis inside the gut of the flea. Image taken from http://www.ncbi.nlm.nih.gov/pmc/articles/instance/3727414/bin/nihms489972f1.gif
 
-This in in turn shows the ability of Y. pestis to block the flea's foregut with a biofilm is a highly specialized evolutionary trait that essentially forces the flea to regurgitate the bacteria into a new host during feeding. This is a profound example of bacteria organizing structurally to manipulate a macro-organism for their own transmission.
+This in in turn shows the ability of Y. pestis to block the flea's foregut with a biofilm is a highly specialized adaptational trait that essentially forces the flea to regurgitate the bacteria into a new host during feeding. This is a profound example of bacteria organizing structurally to manipulate a macro-organism for their own transmission.
 Other Epidemics are also caused by Biofilms
 In human history Several of the most devastating infectious diseases and outbreaks depend strongly on biofilm formation for their survival and transmission:
 1.3. Cholera (Vibrio cholerae): 
@@ -340,7 +340,7 @@ Transmission of Mycobacterium tuberculosis occurs primarily via aerosolized drop
 Such structural organization renders tuberculosis exceptionally difficult to eradicate, requiring patients to undergo months of combination antibiotic therapy (Ehlers & Schaible, 2013  ; Sarangi et al., 2024 ).
 1.7. Does the above support the Multicellularity Theory?
 The behaviour of these pathogens strongly reinforces the concept of bacterial multicellularity. 
-Pathogenic bacteria often employ a strategy of delayed virulence to evade host immune detection. Rather than initiating an attack immediately upon entry, they rely on a cell-density-dependent regulatory mechanism known as quorum sensing (QS). This process involves the constitutive release and detection of small signaling molecules (autoinducers), allowing the bacterial population to estimate its own density. Virulence factors—including toxins and tissue-degrading enzymes—are only transcribed and secreted once a critical threshold population, or "quorum," has been achieved (Rutherford and Bassler  ; de Kievit and Iglewski  ). This coordinated, simultaneous activation creates the clinical impression of a synchronized ambush. From an evolutionary perspective, this behavior prevents the premature triggering of host defenses, ensuring the bacterial colony has reached a sufficient size to overwhelm the immune response and establish a successful infection (Rumbaugh et al. ).
+Pathogenic bacteria often employ a strategy of delayed virulence to evade host immune detection. Rather than initiating an attack immediately upon entry, they rely on a cell-density-dependent regulatory mechanism known as quorum sensing (QS). This process involves the constitutive release and detection of small signaling molecules (autoinducers), allowing the bacterial population to estimate its own density. Virulence factors—including toxins and tissue-degrading enzymes—are only transcribed and secreted once a critical threshold population, or "quorum," has been achieved (Rutherford and Bassler  ; de Kievit and Iglewski  ). This coordinated, simultaneous activation creates the clinical impression of a synchronized ambush. From an adaptational perspective, this behavior prevents the premature triggering of host defenses, ensuring the bacterial colony has reached a sufficient size to overwhelm the immune response and establish a successful infection (Rumbaugh et al. ).
 On the other hand, Pathogens often infect the immunocompromised, the elderly, or those with underlying conditions first. This is because a healthy human (a stable multicellular) has a robust immune system and a healthy microbiome that naturally outcompetes or destroys the invading pathogen. TB is the classic example of an epidemic exploiting immune weakness. It is estimated that latent M. tuberculosis reactivates in 5-10% of immunocompetent hosts over their lifetime, but this risk rises exponentially in HIV-coinfected individuals. The depletion of CD4+ T-cells by HIV destroys the very immune architecture required to contain M. tuberculosis within granulomas . A weakened host represents an "open ecological niche" with fewer defences, allowing the invading bacterial community to establish its biofilm easily. While the rule holds true for severity, the transmission pattern can sometimes favor healthier hosts in the early stages of a novel epidemic. Healthier, more mobile populations (e.g., young adults) often drive the initial geographic spread of a pathogen because they have higher rates of social interaction and travel. They get infected first, but they usually survive. The immunocompromised get infected later, but they are more likely to die.  
 1.8. conclusion of chapter one: 
 In this chapter, different microbial infections and epidemics were discussed. Specifically focusing on the concept of these bacteria being spread in a biofilm form (multicellular form) when they spread and infect. The features these biofilms exhibit that can strengthen the multicellular behavior are: Structured architecture, Extracellular matrix production, Nutrient gradients, Quorum sensing, Division of labour and Stress tolerance. The biofilms that infect in biofilm form were the plague, cholera, typhoid, legionella pneumonia and TB. Also, many other bacteria strains and infections have been found to infect in a biofilm state. These are namely, Pseudomonas aeruginosa in cystic fibrosis, otitis media infection, salmonella food borne infection, listeria food borne infection, dental plaques and many other nosocomial infections. It is becoming more evident that bacteria prefer to live and is actually living in multicellular pattern. Despite this multicellular form is less preferable if the sole interests of a single cell are being taken in consideration. On the contrary, many cells tend to sacrifice or give less interest in the survival of itself on the consequence of the health and integrity of the whole biofilm (community). Moreover, it is more evident that single cells of bacteria and biofilms mostly prefer travelling to distant places and choose less preferable conditions in the beginning or at a period of their lifecycle. It also seems to endure many more harsh or destructing conditions as a biofilm to reach a place or an organ where it may evade the host immune system and can thrive more efficiently and can be more lethal in such a place. To a distant looking multicellular organism like myself, this seems to be alluring and conspicuously clear that an entity to have such an amazing preprogrammed like journey to its final destination the organism should have many complicated tools to do so. Also, to have a tandem working cells at least one or few organisms must exist. These might have many sensory organs like light sensation, sound sensation, tactile organs and an organ that interprets these inputs and would give orders other organs to have their own reactions. The last point would be discussed in the following chapter. 
@@ -456,7 +456,7 @@ Many plant infections, comparable to human disorders, are usually associated wit
 These complex relationships are now being taken into account when creating novel methods for improving harvest development and wellbeing (Panke-Buisse et al.2015; Poudel et al.2016) or when using microbiome-based strategies to manage an imbalance in animals and plants (Fraune et al.2015; Santhanam et al.2015; Adam et al.2016). With a focus on relationships among microorganisms in the context of pathogenesis (Lopes, Azevedo, and Pereira 2014), it is becoming more widely acknowledged that potential synergisms within BF infectious populations must now be taken into account in order to study and treat diseases (Lamichhane and Venturi 2015). Additionally, beneficial BFI effects on human wellness may make it possible to use fungus and/or bacteria as probiotics. Microbiome-based analyses are also used to improve food-related operations, such as the production of cheese and wine (Pinto et al. 2014; Dugat-Bony et al. 2015; Liu et al. 2017), and they may have applications in a variety of diverse industries, such as biological remediation and power generation. 
 D. As for parasites few experiments have been undertaken to analyze and detect the relationship between parasites and bacteria.
 Historically, the scientific consensus was that parasites lacked the ability to generate biofilms. However, a groundbreaking 2024 study published in Nature has upended this view, offering the first definitive proof of a parasite building a biofilm-like community.
-•	The Organism: The research focuses on Lotmaria passim, a trypanosomatid parasite that shares an evolutionary lineage with several human pathogens.
+•	The Organism: The research focuses on Lotmaria passim, a trypanosomatid parasite that shares an adaptaional lineage with several human pathogens.
 •	The Discovery: Scientists discovered that, given the right environment, these organisms will anchor to surfaces, mutate into specialized (haptomonad-like) cells, and secrete a protective extracellular matrix. These resulting structures check all the boxes for a true biofilm.
 Ultimately, this highly recent breakthrough implies that biofilm formation is a far more common survival tactic across the entire microbial spectrum than we originally realized. 
  Romoli, O., Gendrin, M (2018) have elaborated: for the last two decades, the increasing evidence have accumulated regarding the role of mosquito’s microbiome in defining how the plasmodium infection is transmitted.  In contrast the relationship between the mosquito, its microbiota and the plasmodium are intricate that is in need for further investigation. Limitation of plasmodium infection, change of various physiological aspects of the mosquito including its lifetime are among the effects that the microbiota exerts. These interactions can be suggested to be fixed interplay system were all the structure have their separate duty by the virtue of similar effects across all mosquitos and plasmodium species.  
@@ -508,7 +508,7 @@ The physical density of a biofilm’s environment directly dictates the efficacy
 As the gelatinous matrix's viscoelastic characteristics are determined by the extracellular polymers these means that the White blood cells’ ability to efficiently infiltrate and guard the mucus layers are directly related to EC polymer concentration. The material that usually constitutes the matrix may be obtained from mucus, dead tissue, DNA discharged from dead neutrophils or WBC from extracellular traps, also from the EPS manufactured by the biofilms themselves. 
 Here in these researches, we can find that different extracellular matrix components can function as mechanical apparatus for nutrient, water retention and for scaffolding. Also, different biofilm densities yield different elastic properties and would be different in vast range of milieus. This is so compelling because why some cells would pass the nutrients to much more distant cells if there is no mutual relationship between those cells. This needs to investigate the biofilms in different environmental conditions. 
 2.7.2. mechanical properties of biofilms that renders them to be thought as multicellular:
-Once regarded merely as random clusters of independent bacteria, biofilms are now recognized for displaying key traits associated with multicellular life. This article consolidates recent advances in understanding the mechanical, architectural, and bioelectrical characteristics of biofilms. It illustrates how the extracellular matrix serves a role similar to primitive muscle tissue, how bacterial cells adopt specialized roles akin to differentiated cells in complex organisms, and how communication via ion channels orchestrates collective metabolic activity. We also explore how these communal structures maintain evolutionary stability by managing and neutralizing social cheaters, reinforcing the concept of the biofilm as a unified, organism-like entity.
+Once regarded merely as random clusters of independent bacteria, biofilms are now recognized for displaying key traits associated with multicellular life. This article consolidates recent advances in understanding the mechanical, architectural, and bioelectrical characteristics of biofilms. It illustrates how the extracellular matrix serves a role similar to primitive muscle tissue, how bacterial cells adopt specialized roles akin to differentiated cells in complex organisms, and how communication via ion channels orchestrates collective metabolic activity. We also explore how these communal structures maintain adaptational stability by managing and neutralizing social cheaters, reinforcing the concept of the biofilm as a unified, organism-like entity.
 1. Mechanical Dynamics: The Extracellular Matrix as an Active System: 
 Far from being just an inert support system, the extracellular polymeric substance (EPS) is a dynamic material that can generate physical force. Emerging research in biophysics shows that biofilms have the capacity to alternately swell and contract in reaction to their surroundings.
 a.	Force from Osmosis:
@@ -522,7 +522,7 @@ Bacteria on the periphery, in direct contact with the fluid environment, are hig
 a.	Inner Core as Reservoir: 
 In the deeper, oxygen-depleted layers of the biofilm, cells enter a non-growing, highly persistent state (Lewis, 2010). These dormant cells function like a protected germline. If the metabolically active outer layers (the "soma") are killed by antibiotics or other threats, this inner population can survive and subsequently regenerate the entire community. 
 3.	Bioelectrical Communication: Signalling Through Ion Flow:
-For a biofilm to synchronize complex behaviours across its entire structure, it needs a rapid and far-reaching communication system. The identification of electrical signalling has provided a revolutionary insight into how this coordination happens.
+For a biofilm to synchronize complex behaviours across its entire structure, it needs a rapid and far-reaching communication system. The identification of electrical signalling has provided a radaptationalinsight into how this coordination happens.
 Work from the Süel group has revealed that Bacillus subtilis biofilms use potassium ion channels to send electrical signals over long distances (Prindle et al., 2015).
 a.	Cycling Metabolism:
 As the highly active cells at the periphery rapidly deplete nutrients, they inadvertently create a shortage for cells in the interior. In response, the nutrient-starved interior cells generate an electrical signal.
@@ -548,7 +548,6 @@ Woodall LC et. al 2018: “The deep sea is the largest biome on earth, and micro
 Therefore, one can decide that there are microbiomes inside water. In conclusion, this is one of the biomechanical privileges that biofilms own. On one side there is salinity (high concentration of salt) which makes it mechanically demanding to maintain the stability of the cells inside salty water.
 The choice of appropriate biofilm control strategies in membrane systems for seawater desalination pretreatment relies on understanding the properties of the biofilm formed on the membrane. This study reveals how the biofilm composition, including both organic and inorganic, influenced the biofilm behavior under mechanical loading. The investigation was conducted on two Gravity-Driven Membrane reactors employing Microfiltration (MF) and Ultrafiltration (UF) membrane for the pretreatment of raw seawater. After a stabilization period of 20 days (Phase I), a biofilm behavior test was introduced (Phase II) to evaluate (i) biofilm deformation during the absence of permeation (i.e., relaxation) and (ii) biofilm resistance to detachment forces (i.e., air scouring). The in-situ monitoring investigation using Optical Coherence Tomography (OCT) revealed that the biofilms developed on MF and UF membrane presented a rigid structure in absence of filtration forces, limiting the application of relaxation and biofilm expansion necessary for cleaning. Moreover, under shear stress conditions, a higher reduction in biofilm thickness was observed for MF (−60%, from 84 to 34 µm) compared to UF (−30%, from 64 to 45 µm), leading to an increase of permeate flux (+60%, from 9.1 to 14.9 L/m2/h and +20 % from 7.8 to 9.5 L/m2/h, respectively). The rheometric analysis indicated that the biofilm developed on MF membrane had weaker mechanical strength, displaying lower storage modulus (−50 %) and lower loss modulus (−55 %) compared to UF. These differences in mechanical properties were linked to the lower concentration of polyvalent ions and the distribution of organic foulants (i.e., BB, LMW-N) found in the biofilm on the MF membrane. Moreover, in the presence of air scouring led to a slight difference in microbial community between UF and MF. 
 A 2022 study in FEMS Microbiology Ecology on biofilm-forming microalgae adds another layer to this. It found that diatoms like Amphora and Navicula could survive long periods of darkness (a terrestrial stressor) and resume normal growth and photosynthesis once favorable conditions (light) returned. This demonstrates the resilience and regenerative capacity of the community's "inner organs" protected by the biofilm structure. 
-(gemini Yes,
 Also, there is substantial evidence that marine biofilms can survive on land. In fact, the mechanical challenges such as gravity, wind, and intense desiccation (drying out) often trigger the very adaptations that make them more resilient.
 Research into intertidal zones and biofouling (marine growth on ship hulls) provides clear evidence of this "terrestrial" survival.
 1. The "Elastic Shield": Combating Desiccation
@@ -689,7 +688,7 @@ Yang CY, Bialecka-Fornal M, Weatherwax C, Larkin JW, Prindle A, Liu J, Garcia-Oj
 Abhijeet P. Borole,   Gemma Reguera,  Bradley Ringeisen,   Zhi-Wu Wang,  Yujie Feng and  Byung Hong Kim have stated: Electroactive biofilms (EABFs) from electrochemically active microorganisms offer applications in bioenergy and chemical production, with biofilm electroactivity significantly affecting conversion yields and efficiency. This review assesses how process and design parameters influence biofilm growth and activity in bioelectrochemical systems (BESs). We compare planktonic and biofilm-forming microorganisms, then examine how physical, chemical, and electrochemical parameters—flow rate, temperature, pH, ionic strength, substrate concentration and loading, external resistance, and redox potential—affect EABF attributes including growth rate, exoelectrogen population, EPS formation, mediator synthesis, and electron transfer rates. The electrochemical performance-operating parameter relationship is analyzed to identify assessment gaps and modeling opportunities. We also review electron transfer mechanisms and the role of exopolymeric component conductivity in BES performance, along with cathodic biofilm research. Optimizing BES performance for commercial viability will likely require integrated process control approaches that balance EABF composition and biomass density against mass transfer effects and system design. Future research needs are outlined. 
 2.9.4. Division of Labor and Task Specialists
 Momeni B. has discussed: The division of labor—where different subgroups carry out distinct tasks simultaneously within a collective—is a widespread phenomenon in biology. In multicellular organisms, this is evident in the specialization of cells into various tissues and organs. Similarly, division of labor occurs among individuals within a group, such as in termite colonies, where queens and kings focus on reproduction, workers handle foraging, and soldiers defend the colony. This concept is key to understanding how complexity emerges and persists in living systems. A recent study by Dragoš et al., featured in this issue of Current Biology, seeks to uncover the molecular mechanisms behind division of labor in the common soil bacterium Bacillus subtilis, particularly focusing on how cells coordinate biofilm matrix production.
-Microbial communities, especially biofilms, are known to exhibit division of labor. For instance, in B. subtilis biofilms, even genetically identical cells differentiate into subpopulations with distinct roles, such as motility, matrix production, and sporulation—all crucial for the biofilm's success. However, the question remains: how do the costs and benefits of this division of labor for individual cells support the evolution and persistence of such strategies?
+Microbial communities, especially biofilms, are known to exhibit division of labor. For instance, in B. subtilis biofilms, even genetically identical cells differentiate into subpopulations with distinct roles, such as motility, matrix production, and sporulation—all crucial for the biofilm's success. However, the question remains: how do the costs and benefits of this division of labor for individual cells support the change and persistence of such strategies?
 Understanding the mechanisms behind division of labor is essential, as it has significant implications for human health. For example, in chronic infections, microbes like Pseudomonas aeruginosa and Staphylococcus aureus collaborate by dividing virulence-related tasks, making infections harder for the immune system or antibiotics to combat. Similarly, in the lungs of cystic fibrosis patients, the differentiation of P. aeruginosa into specialized subpopulations complicates treatment.
 Studying division of labor in natural environments is challenging due to the complexity of interactions and uncertainties about individuals and their surroundings. To address this, Dragoš and colleagues used B. subtilis as a model system to explore how division of labor originates and is sustained. By employing fluorescent markers to track gene expression and constructing mutants to study gene function, they were able to investigate both genetic and phenotypic aspects of this phenomenon in a controlled and manipulable setup. 
 van Gestel J, Vlamakis H, Kolter R. have discussed: The close packing of cells on surfaces, such as within biofilms, inherently generates diversity in both the environment and the cells themselves. Nutrient availability, for example, can vary across the biofilm, prompting cells to adopt different phenotypic states. Beyond simply adjusting to local conditions, these cells also develop into distinct, interacting types. This specialization enables the distribution of tasks, laying the groundwork for division of labor. Here, we examine cell differentiation and task specialization in three bacterial species: Myxococcus xanthus, Bacillus subtilis, and Pseudomonas aeruginosa. During biofilm development, each of these organisms gives rise to specialized cell types that, in certain instances, engage in cooperative interactions. While this division of labor and the resulting cooperation are thought to generate collective ecological advantages, such benefits remain largely unconfirmed. A key exception is M. Xanthus, were cell differentiation within fruiting structures aids in spore dispersal. We propose that a clearer understanding of the ecological role of division of labor may emerge by accounting for the cyclical processes of both biofilm formation and breakdown. 
@@ -699,7 +698,7 @@ Humphries J, Xiong L, Liu J, et al.  (2017) have found: Bacteria living within b
 2.9.6. Distributed Intelligence and Systemic Behaviour:
 This research is a clear indication of long range electrical signaling.
 Westerhoff, Hans & Brooks, Aaron & Simeonidis, Vangelis & García-Contreras, Rodolfo & He, Fei & Boogerd, Fred & Jackson, Victoria & Goncharuk, Valeri & Kolodkin, Alexey. (2014) have summarized: Living systems endure through intricate interactions among numerous components, which are organized into dynamic and responsive networks that operate across multiple levels and dimensions. These biological networks can be viewed as a form of information and communication technology (ICT): they receive signals from both inside and outside the cell, integrate and process that information, and ultimately trigger an appropriate response. Such networks enable molecules within cells—and even entire cells—to communicate with one another and with their surroundings.
-We typically associate the concept of "intelligence" with brain function, particularly that of the human brain. However, over four billion years of evolution, natural selection may have shaped networks with structures and behaviors that exhibit qualities akin to intelligence, even in systems far removed from neural circuits. In this article, we examine how macromolecular networks in microorganisms give rise to intelligent-like traits—including memory, anticipation, adaptation, and reflection—and review current insights into how network architecture reflects the kind of intelligence suited to the environments in which these organisms evolved. We suggest that if we remove terms like "human" and "brain" from the definition of intelligence, then all forms of life, from microbes to humans, display some or all features consistent with what we recognize as intelligence.” 
+We typically associate the concept of "intelligence" with brain function, particularly that of the human brain. However, over four billion years of change, natural selection may have shaped networks with structures and behaviors that exhibit qualities akin to intelligence, even in systems far removed from neural circuits. In this article, we examine how macromolecular networks in microorganisms give rise to intelligent-like traits—including memory, anticipation, adaptation, and reflection—and review current insights into how network architecture reflects the kind of intelligence suited to the environments in which these organisms evolved. We suggest that if we remove terms like "human" and "brain" from the definition of intelligence, then all forms of life, from microbes to humans, display some or all features consistent with what we recognize as intelligence.” 
 The aforementioned research, reviews and meta-analysis have clearly confirmed the following: there are electrically bioactive biofilms among which electrical signals transfer information from cells to much distant unrelated cells in the biofilm. This is very much similar to the nervous appendages in the mammalian and eukaryotes but in a simpler way. The other research affirms that even with a single cell ancestor then there is differentiation of labor among same phenotypic cells. This means that there is specialization among cells in the biofilm. By synthesizing the work of Reguera, Süel, and Westerhoff, one can move the conversation from "slime" to "bio-intelligence." One can describe an essential prokaryotic nervous system. the insight that this is "very much similar to the nervous appendages in mammals" is supported by Westerhoff’s "Microbial Intelligence." If a biofilm can:
 1.	Remember (via membrane potential patterns),
 2.	Communicate (via K+ waves and nanowires), and
@@ -740,11 +739,10 @@ Given the fact that multicellular organisms and even humans perish under the hea
 2.11.1. circadian rhythm in photosynthetic bacteria:
 our findings indicate that the circadian clock governs the formation and activity of carboxysomes in Syn7942. This circadian regulation of carbon assimilation is widely observed across various photosynthetic organisms. For instance, dinoflagellates manage Rubisco carboxylation by altering its spatial arrangement within chloroplasts without changing overall protein concentrations. Similarly, C3 plants rely on circadian-regulated Rubisco activases, while CAM plants exhibit daily circadian control over CAM genes and primary CO2 fixation enzymes like PEP carboxylase kinase.
 In Syn7942, removing the KaiA protein (∆kaiA/RbcL-eYFP) led to an altered distribution—yielding an increased number of carboxysomes that each contained less Rubisco. However, because overall cellular Rubisco levels and carbon-fixation capacities remained comparable to the wild type, this likely reflects a compensatory structural response to the absence of KaiA, suggesting KaiA's intrinsic role in carboxysome modulation. Future studies profiling the protein composition of other carboxysome components will be vital for mapping this clock-driven structural adaptability. Ultimately, this research underscores how cells universally synchronize their carbon assimilation mechanisms with natural diurnal cycles.
-Sartor F. et al have debated: The discovery of circadian rhythms in Eubacteria holds significant implications, given the essential roles bacteria play in medicine, agriculture, and industry. Understanding these microbial rhythms could enable us to optimize our interactions with bacteria across these fields. Such knowledge is particularly relevant to addressing antibiotic resistance, a major medical crisis exemplified by pathogens like MRSA. Current overuse of antibiotics drives evolutionary pressure for resistance, and simply developing new drugs would only offer a temporary solution. A more promising approach may involve leveraging bacterial circadian clocks to temporarily slow bacterial metabolism or replication, then administering antibiotics at strategic times to enhance efficacy while potentially slowing the emergence of resistance. 
+Sartor F. et al have debated: The discovery of circadian rhythms in Eubacteria holds significant implications, given the essential roles bacteria play in medicine, agriculture, and industry. Understanding these microbial rhythms could enable us to optimize our interactions with bacteria across these fields. Such knowledge is particularly relevant to addressing antibiotic resistance, a major medical crisis exemplified by pathogens like MRSA. Current overuse of antibiotics drives adaptational pressure for resistance, and simply developing new drugs would only offer a temporary solution. A more promising approach may involve leveraging bacterial circadian clocks to temporarily slow bacterial metabolism or replication, then administering antibiotics at strategic times to enhance efficacy while potentially slowing the emergence of resistance. 
 Murakami Mari, Tognini Paola. Have discussed: Although emerging evidence has established that daily fluctuations in gut microbial composition and metabolites influence host metabolism and immunity, the potential for these circadian oscillations to affect central nervous system function and behavior remains underexplored. Nonetheless, recent findings suggest a link between daily rhythms and the gut microbiome–brain axis. Studies in germ-free mice have shown reduced oscillation of core clock genes in the hypothalamus, indicating that microbiota influence the brain's master clock [Leone et al., 2015]. Light exposure has been identified as a key driver of daily bacterial dynamics [Wu et al., 2018], while disruption of the central clock via altered sleep–wake cycles has been shown to modify gut microbial composition and diversity [Thaiss et al., 2016; Deaver et al., 2018]. Moreover, mice on high-fat, high-sugar diets exhibited greater susceptibility to circadian disruption than those on standard diets [Voigt et al., 2014]. In humans, time-dependent variations in gut microbiota have been documented, with jet lag inducing measurable shifts in microbial communities [Thaiss et al., 2014]. Collectively, these findings point to a bidirectional relationship between the host circadian system and the gut microbiome across species. 
 Haspel, Jeffrey, et al. have debated: Numerous aspects of the COVID-19 pandemic are potentially linked to circadian and other biological rhythms, including the behavior of asymptomatic carriers, organ function in patients, the viral life cycle within host cells, and the immune response. Despite the biological plausibility of these connections, the potential protective role of healthy sleep and circadian rhythms has received limited research attention. Notably, existing data on intensive care unit (ICU) environments and critically ill patients highlight a gap in understanding whether—and how—sleep and circadian synchronization contribute to recovery. While circadian disruption is well established as a contributor to disease, evidence that circadian alignment promotes healing remains scarce. The current pandemic presents an opportunity to address this gap through systematic collection of time-stamped data, enabling a clearer understanding of the circadian clock's role in critical illness. Furthermore, we suggest that assessing circadian clock status could inform strategies to mitigate COVID-19 at all stages of the disease. 
-Therefore, microbiota may work according to a circadian rhythm and biologic clock.  
-( gemini 
+Therefore, microbiota may work according to a circadian rhythm and 
 2.11.2. Evidences of Circadian Rhythms in Non-Photosynthetic Bacteria
 For a long time, it was thought only light-eating bacteria needed clocks. However, recent studies on Bacillus subtilis have changed this.
 a.The Genetic Clock in the Dark: Research by Eelderink-Chen et al. (2021)  demonstrated that B. subtilis has a functional circadian clock even when grown in total darkness. They used luciferase "reporting" to show that gene expression for biofilm formation and metabolism oscillates on a 24-hour cycle.
@@ -854,7 +852,7 @@ Antimicrobial Resistance (AMR): Companion animals are increasingly recognized as
 In light of the research on bacterial multicellularity, the canine gastrointestinal tract may be regarded as a valuable in vivo system for the study of this phenomenon. The transition of microbial communities from a planktonic to a biofilm-associated state within the canine mucosa represents a key adaptive mechanism. This structural reorganization facilitates microbial survival against both the acidic conditions of the stomach and the host immune responses encountered within the intestinal environment. Are these viromes inside the canine gut more virulent than others? What is their role for stabilizing the environment of the dog’s? are they found in certain types and not in others? Does this make the dog’s mouth unhealthy to humans?
 2.17. Some animals and their microbiome: 
 Gilbert C, Meik JM, Dashevsky D, Card DC, Castoe TA, Schaack S. have found: Numerous viruses have been characterized in reptiles, with at least 11 families documented in snakes. However, hepadnaviruses, bornaviruses, and circoviruses have not been reported in this group, with the exception of a truncated bornavirus nucleoprotein transcript (94 amino acids) identified in a Gaboon viper transcriptome and a TBLASTN hit corresponding to a python endogenous bornavirus-like nucleoprotein (EBLN3) noted in a supplementary table by Horie et al. To date, bornaviruses and hepadnaviruses have never been observed in non-avian reptiles, and only a single member of the Circoviridae has been identified in a non-avian reptile, specifically a green sea turtle. Nevertheless, the multiple endogenization events documented across various taxa in this study indicate that snakes have been repeatedly exposed to divergent members of these three viral families over the past 50 million years. Although these findings do not suggest that snakes are currently interacting with these viruses, they provide evidence of historical interactions. Collectively, these results underscore the value of paleo virology in elucidating past host–virus dynamics, formulating and testing hypotheses concerning host-switching events, and informing the selection of plausible host taxa for future surveillance of circulating viruses. In addition to identifying previously undocumented endogenous viruses in snakes, the phylogenetic analysis reveals a notable lack of congruence between host and viral phylogenies, suggesting that these three viral families have likely undergone one or more cross-species transmission events between mammals and reptiles in the past. 
-Smith SN, Colston TJ, Siler CD et al have constructed:  Although progress has gradually been made in understanding microbial variation across distinct anatomical sites within the reptilian gastrointestinal tract, knowledge regarding the composition, diversity, and functional attributes of snake microbiomes remains substantially limited. Establishing a foundational understanding of venomous snake microbiomes, particularly with respect to regional anatomical associations (e.g., gastrointestinal tract versus venom gland), will be essential for elucidating the potential roles that host-specific microbiomes may have played in the adaptive evolution of venomous snakes. Furthermore, while 16S rRNA gene amplicon sequencing often serves as an initial approach for identifying compositional patterns among host-associated bacterial communities, the application of alternative genomic technologies—such as shotgun metagenomic sequencing—offers promising avenues for characterizing the functional potential of these microbiomes and their interactions with the host. By presenting the findings of this comparative study across three host species, each representing a distinct snake family (Colubridae, Elapidae, Viperidae), we aim to address this knowledge gap for one of the most ecologically diverse and species-rich vertebrate lineages on Earth. 
+Smith SN, Colston TJ, Siler CD et al have constructed:  Although progress has gradually been made in understanding microbial variation across distinct anatomical sites within the reptilian gastrointestinal tract, knowledge regarding the composition, diversity, and functional attributes of snake microbiomes remains substantially limited. Establishing a foundational understanding of venomous snake microbiomes, particularly with respect to regional anatomical associations (e.g., gastrointestinal tract versus venom gland), will be essential for elucidating the potential roles that host-specific microbiomes may have played in the adaptive change of venomous snakes. Furthermore, while 16S rRNA gene amplicon sequencing often serves as an initial approach for identifying compositional patterns among host-associated bacterial communities, the application of alternative genomic technologies—such as shotgun metagenomic sequencing—offers promising avenues for characterizing the functional potential of these microbiomes and their interactions with the host. By presenting the findings of this comparative study across three host species, each representing a distinct snake family (Colubridae, Elapidae, Viperidae), we aim to address this knowledge gap for one of the most ecologically diverse and species-rich vertebrate lineages on Earth. 
 Mims TS, Abdallah QA, Stewart JD, Watts SP, White CT, Rousselle TV, Gosain A, Bajwa A, Han JC, Willis KA, Pierre JF. have found: In this study, we examine whether variations in the abundance and composition of the gut mycobiome correlate with key features of host metabolism. To assess whether distinct initial mycobiomes influence host adaptation to processed diets, we obtained animals from four commercial sources. Our findings indicate that the gut mycobiome of healthy mice is shaped by environmental factors, including diet, and is significantly associated with metabolic outcomes. Exposure to processed diets results in persistent alterations in fungal communities, which in male mice correlate with differential body mass accumulation compared to those fed a standardized diet. Hepatic fat deposition, transcriptional changes in metabolically active tissues, and serum metabolic biomarker levels are all linked to shifts in fungal community diversity and composition. Notably, variation in fungi from the genera Thermomyces and Saccharomyces shows the strongest association with metabolic disturbance and weight gain. 
 Bolaños LM, Rosenblueth M, Castillo-Ramírez S, Figuier-Huttin G, Martínez-Romero E. have discovered: Scorpions are regarded as "living fossils" that have retained ancestral morphological characteristics while successfully adapting to a wide range of habitats. Despite this, the diversity of their gut microbiota remains unexplored. In this study, we characterized the gut microbiota of two scorpion species, Vaejovis smithi and Centruroides limpidus. Our findings demonstrate that the gut microbiota of scorpions is species-specific and that food deprivation leads to a reduction in bacterial diversity. Phylogenetic analysis of 16S rRNA gene sequences revealed novel bacterial lineages exhibiting low sequence identity to any known bacteria. Moreover, these novel lineages were found to be exclusive to each scorpion species. Predicted metagenomic profiling further identified a core set of metabolic pathways that were highly abundant in both species, predominantly associated with amino acid, carbohydrate, vitamin, and cofactor metabolism. 
 Here it is discovered that there are microbiomes plus/minus virome and fungi inside reptilian animals, mice, scorpions specially and snakes.
@@ -867,10 +865,10 @@ When a python or viper eats a meal that can be 50% of its own body weight, the g
 3.The concept of the oral/venom microbiome acting as a biological weapon is an exciting frontier in toxinology. Researchers (like Smith et al.) have demonstrated that a snake's oral cavity and venom glands harbor a distinct microbiota separate from the gut, often containing pathogenic bacteria like Enterococcus, Pseudomonas, and Clostridium. When a snake strikes, these microbes are inoculated deep into the puncture wound alongside the venom. Instead of just being passive hitchhikers, it is theorized that these bacteria act synergistically with venom metalloproteinases to rapidly break down local tissue. This exacerbates the necrotic (tissue-rotting) effect of the bite, essentially initiating the digestion process from the inside out before the snake even swallows the prey. 
 b. Survival and Transfer: From Reptiles to Humans
 Palaeobiology and Viral "Jumps"
-For millions of years, certain viruses have achieved deep evolutionary persistence through endogenization. When an ancient bornavirus infected a host (like a snake's ancestor), segments of its viral RNA were reverse-transcribed and integrated directly into the host’s germline DNA (sperm or egg cells). These integrated sequences, known as Endogenous Viral Elements (EVEs), were then passed down vertically from parent to offspring. They act as "molecular fossils," allowing the viral genetic code to hide and survive across geological timescales without needing to actively infect new hosts.
-The Gilbert et al. (2014) paper proved that the evolutionary history of snakes involves multiple viral host-switches between reptiles and mammals. For a zoonotic spillover to occur today, a virus must exhibit extreme plasticity, specifically by mutating its viral envelope glycoproteins to successfully bind to homologous cellular receptors in the new human host. The discovery of these fossilized, mammalian-like bornaviruses embedded in modern snake genomes is highly significant; it proves that the cellular "lock and key" mechanisms between reptiles and mammals have historically overlapped, making the zoonotic bridge much shorter than previously thought. (Gilbert et al., 2014) 
+For millions of years, certain viruses have achieved deep adaptational persistence through endogenization. When an ancient bornavirus infected a host (like a snake's ancestor), segments of its viral RNA were reverse-transcribed and integrated directly into the host’s germline DNA (sperm or egg cells). These integrated sequences, known as Endogenous Viral Elements (EVEs), were then passed down vertically from parent to offspring. They act as "molecular fossils," allowing the viral genetic code to hide and survive across geological timescales without needing to actively infect new hosts.
+The Gilbert et al. (2014) paper proved that the adaptaional history of snakes involves multiple viral host-switches between reptiles and mammals. For a zoonotic spillover to occur today, a virus must exhibit extreme plasticity, specifically by mutating its viral envelope glycoproteins to successfully bind to homologous cellular receptors in the new human host. The discovery of these fossilized, mammalian-like bornaviruses embedded in modern snake genomes is highly significant; it proves that the cellular "lock and key" mechanisms between reptiles and mammals have historically overlapped, making the zoonotic bridge much shorter than previously thought. (Gilbert et al., 2014) 
 2.17.2. Conclusion: 
-In this paper arguing for the multicellularity of biofilms, the scorpion gut (from the Bolaños paper) provides a "clean" example. Because scorpions have novel bacterial lineages restricted to specific species, it suggests that these bacteria have evolved a highly "social" and specialized multicellular structure that is perfectly tuned to the scorpion's unique internal environment. This "niche specialization" is a hallmark of multicellular evolution.
+In this paper arguing for the multicellularity of biofilms, the scorpion gut (from the Bolaños paper) provides a "clean" example. Because scorpions have novel bacterial lineages restricted to specific species, it suggests that these bacteria have evolved a highly "social" and specialized multicellular structure that is perfectly tuned to the scorpion's unique internal environment. 
 2.18. Microbiome of donkeys: 
 Câmara RJF. Et al have discovered: Donkeys (Equus asinus) and mules constitute approximately half of the global domestic equine population and serve a vital role in the livelihoods of countless people, particularly in developing nations. Despite their significance, these animals are currently considered neglected and threatened due to factors such as abandonment, indiscriminate slaughter, and inadequate sanitary management. Specific knowledge regarding the infectious viral diseases affecting this group of Equidae remains limited. In many instances, donkeys and mules are managed similarly to horses, with the physiological distinctions among these species often overlooked. The majority of infectious diseases affecting the Equidae family are confined to this family and carry substantial economic consequences for the equine industry. However, certain viruses have the potential to cross the species barrier and infect humans, thereby posing a significant risk to public health.  
 Liu G, et al has noted: The gastrointestinal microbiota exerts a significant influence on the nutrition and health of monogastric herbivores, including donkeys. Nevertheless, the microbiota across different gastrointestinal compartments of healthy donkeys has yet to be characterized. In this study, we investigated the abundance and functional capacity of microbiota at various sites along the gastrointestinal tract (GIT)—including the foregut (stomach, duodenum, jejunum, and ileum) and hindgut (cecum, ventral colon, dorsal colon, and rectum)—of healthy adult donkeys, primarily using 16S rRNA gene sequencing and PICRUSt (Phylogenetic Investigation of Communities by Reconstruction of Unobserved States) analysis.
@@ -880,13 +878,13 @@ These research and papers denote that the guts of the donkeys are inhabited by m
 Conclusion:
 In this paper on bacterial multicellularity, it is noted that the donkey's hindgut serves as an excellent example of division of labour. The bacteria residing in the cecum are not merely a collection of individual cells; rather, they are thought to function as a cohesive organ. If they did not operate as a multicellular unit—communicating with one another to regulate the initiation and cessation of fermentation—it is suggested that the donkey would be at risk of fatal bloating or acidosis. This process of quorum sensing is considered a fundamental component of the multicellular argument being developed.
 2.19. Do biofilms have embryo like stages?
-Futo M, Opašić L, Koska S, Čorak N, Široki T, Ravikumar V, Thorsell A, Lenuzzi M, Kifer D, Domazet-Lošo M, Vlahoviček K, Mijakovic I, Domazet-Lošo T. have found: Using time-resolved transcriptomic and proteomic profiling, the study found that biofilm ontogeny—or development—correlates with evolutionary measures, such that evolutionarily younger and more divergent genes were increasingly expressed at later stages of biofilm growth. Molecular and morphological signatures further revealed that biofilm growth is a highly regulated process organized into discrete ontogenetic stages, resembling those observed in eukaryotic embryos. Collectively, these findings suggest that biofilm formation in Bacillus constitutes a genuine developmental process, comparable to organismal development in animals, plants, and fungi. Given that the majority of cells on Earth exist within biofilms and that biofilms represent the oldest known fossils, it is proposed that the conventional view of early life as consisting of single-celled, free-living organisms warrants reconsideration. 
+Futo M, Opašić L, Koska S, Čorak N, Široki T, Ravikumar V, Thorsell A, Lenuzzi M, Kifer D, Domazet-Lošo M, Vlahoviček K, Mijakovic I, Domazet-Lošo T. have found: Using time-resolved transcriptomic and proteomic profiling, the study found that biofilm ontogeny—or development—correlates with adaptational measures, such that adaptationally younger and more divergent genes were increasingly expressed at later stages of biofilm growth. Molecular and morphological signatures further revealed that biofilm growth is a highly regulated process organized into discrete ontogenetic stages, resembling those observed in eukaryotic embryos. Collectively, these findings suggest that biofilm formation in Bacillus constitutes a genuine developmental process, comparable to organismal development in animals, plants, and fungi. Given that the majority of cells on Earth exist within biofilms and that biofilms represent the oldest known fossils, it is proposed that the conventional view of early life as consisting of single-celled, free-living organisms warrants reconsideration. 
 Chatterjee S, Das S.: Fungal biofilms are ubiquitous in natural environments. Beyond biomass, the primary structural component of a fungal biofilm is the extracellular matrix (ECM), within which fungal hyphae are embedded. Key physical properties of biofilms—including attachment, mechanical stability, and antibiotic resistance—are attributed to the ECM. This study investigated the stages of biofilm formation in the filamentous manglicolous fungus Aspergillus niger BSC-1. Spectroscopic analysis revealed that biofilm formation increased significantly (p < .0001) with incubation time up to 36 hours. Scanning electron microscopy and confocal microscopy demonstrated that biofilm development progressed through six distinct stages: (a) adsorption, (b) active attachment, (c) germling and monolayer formation, (d) hyphal development and ECM production, (e) ECM maturation, and (f) spore dispersal. At the maturation stage, biofilm thickness reached approximately 15 μm. Approximately 8.1 mg of ECM material was extracted from 20 mL of broth culture using ethanol precipitation. 
 The authors of the above paper suggest and have observed developmental stages of biofilm growth the same or close to what other mammals have.
-The papers provided above  are seminal works in what is increasingly known as "The Multicellular Turn" in microbiology. The work by Futo et al. is especially groundbreaking because it uses phylostratigraphy (tracing the evolutionary age of genes) to show that a biofilm follows the same "hourglass" pattern of development as a vertebrate embryo. This suggests that the "free-living single cell" may be an artifact of laboratory culture, and that the "true" natural state of these organisms is a multicellular life cycle.
+The papers provided above are seminal works in what is increasingly known as "The Multicellular Turn" in microbiology. The work by Futo et al. is especially groundbreaking because it uses phylostratigraphy  to show that a biofilm follows the same "hourglass" pattern of development as a vertebrate embryo. This suggests that the "free-living single cell" may be an artifact of laboratory culture, and that the "true" natural state of these organisms is a multicellular life cycle.
 Here are more examples and a detailed elaboration on how these developmental stages and molecular signatures support the multicellularity of biofilms.
 2.19. 1. The Phylostratigraphic Evidence (The "Hourglass" Model)
-In animal development, embryos go through a "phylotypic stage" where they most resemble other species in their phylum. During this stage, evolutionarily ancient genes are expressed.
+In animal development, embryos go through a "phylotypic stage" where they most resemble other species in their phylum. During this stage, adaptational ancient genes are expressed.
 Futo et al.'s Discovery: In Bacillus subtilis biofilms, the team found that as the biofilm "ages," it expresses increasingly younger genes. This ontogenetic succession—moving from ancient "housekeeping" genes to newer, specialized "regulatory" genes—is the exact same pattern seen in the development of a fruit fly or a human. This favors multicellularity: If a biofilm were just a random pile of cells, gene expression would be chaotic or purely reactive to the environment. Instead, it follows an internalized clock. This pre-programmed "instruction manual" for building a structure is a hallmark of multicellular organisms.
 If biofilms are "bona fide developmental processes," as Futo et al. suggest, then the "first life" was likely not a lone cell in the ocean, but a multicellular mat.
 The Stromatolites (fossilized biofilms) from 3.5 billion years ago are not just piles of bacteria; they are the remains of complex, organized "cities" that had to coordinate their growth to survive the harsh UV radiation and chemical environment of early Earth.
@@ -901,7 +899,7 @@ The concept of biofilm multicellularity extends well beyond microscopic host-ass
 2.20.2. Snottites and Cave Biofilms (The "Curtain" Scale)
 In extreme subterranean environments, such as the sulfur-rich Cueva de Villa Luz in Mexico, biofilms develop highly specialized macroscopic formations colloquially referred to as "snottites." These pendant-like structures, which visually resemble mucus-based stalactites, are composed of dense matrices of sulfur-oxidizing bacteria and can grow to exceed one meter in length (Macalady et al., 2007) . Maintaining a structure of this scale requires a highly organized internal architecture. Analogous to the circulatory system development observed in early embryonic stages, these biofilms employ complex internal microchannels to efficiently transport atmospheric nutrients inward while facilitating the outward removal of metabolic waste (Hose et al., 2000) . The metabolic activity of this coordinated community is exceptionally potent; the bacteria convert hydrogen sulfide into concentrated sulfuric acid, producing drips with a pH ranging from 0 to 1. This highly corrosive waste actively dissolves the surrounding limestone bedrock, meaning that these multicellular biofilms effectively carve and expand the cave system over time through biogenic speleogenesis (Hose et al., 2000 ; Macalady et al., 2007 ).
 2.20.3. Giant Single-Cell Colonies: Thiomargarita magnifica
-The recent discovery of Thiomargarita magnifica in the sulfur-rich mangroves of Guadeloupe represents a fundamental paradigm shift in our understanding of bacterial biology, aggressively pushing the boundaries of what constitutes a single cell. While technically a solitary prokaryote, T. magnifica routinely grows up to a centimeter in length—making it visible to the naked eye—and forms massive, string-like filamentous structures on sunken leaves (Volland et al., 2022) . This organism demonstrates that the architectural principles observed in dense biofilms can allow individual cells to reach macroscopic proportions. Most remarkably, T. magnifica challenges the foundational divide between prokaryotes and eukaryotes through its internal architecture. The cell contains complex, membrane-bound structures termed "pepins" that actively compartmentalize its DNA and ribosomes (Volland et al., 2022) . This advanced level of genomic and metabolic organization, a feature historically reserved exclusively for complex multicellular eukaryotes, perfectly illustrates the profound structural plasticity and evolutionary potential of bacterial life.
+The recent discovery of Thiomargarita magnifica in the sulfur-rich mangroves of Guadeloupe represents a fundamental paradigm shift in our understanding of bacterial biology, aggressively pushing the boundaries of what constitutes a single cell. While technically a solitary prokaryote, T. magnifica routinely grows up to a centimeter in length—making it visible to the naked eye—and forms massive, string-like filamentous structures on sunken leaves (Volland et al., 2022) . This organism demonstrates that the architectural principles observed in dense biofilms can allow individual cells to reach macroscopic proportions. Most remarkably, T. magnifica challenges the foundational divide between prokaryotes and eukaryotes through its internal architecture. The cell contains complex, membrane-bound structures termed "pepins" that actively compartmentalize its DNA and ribosomes (Volland et al., 2022) . This advanced level of genomic and metabolic organization, a feature historically reserved exclusively for complex multicellular eukaryotes, perfectly illustrates the profound structural plasticity and adaptational potential of bacterial life.
 2.20.4. Conclusion: 
 The observation that these biofilms can attain scales of meters or even kilometers lend support to the argument that they should not be regarded merely as clusters of individual cells, but rather as macroscopic multicellular organisms. In the same way that a whale consists of coordinated cells functioning as a unified organism, a kilometer-long Beggiatoa mat represents a collection of coordinated bacteria operating collectively as a single environmental "organ."
 2.21. chapter summary: 
@@ -929,14 +927,14 @@ Dunn Robert R., Amato Katherine R., Archie Elizabeth A., have found:  Ultimately
 Davenport ER et al. have found:  While comparing non-Western and Western microbiomes provides valuable insights into how modern diets and medical practices shape microbial composition, no contemporary human population possesses a truly "ancestral" microbiome. Instead, ancient samples—including coprolites, dental calculus, permafrost-preserved tissue, and mummified remains—offer a window into the microbiomes that existed throughout hominin existence and adaptaion.
 Coprolites and mummified intestinal contents provide the most direct snapshots of ancient gut microbiomes; however, these samples often preserve poorly, and not all profiled specimens contain what are recognized as gut microbes. Dental calculus, in contrast, preserves remarkably well. Analysis of samples spanning from 7,000 years ago to the present day reveals that oral microbiome diversity declined with the advent of agriculture. Furthermore, ancient oral microbiomes harbor known opportunistic pathogens and, intriguingly, putative antibiotic resistance genes.
 Recent sequencing of Neanderthal dental calculus from two caves demonstrated that oral microbiomes varied according to inferred meat consumption patterns at each site. The microbiota of specimens interpreted as meat-eaters closely resembled those of modern hunter-gatherer populations, whereas non-meat-eating specimens more closely aligned with those of foraging chimpanzees. Given the rapid expansion of ancient DNA research, our understanding of prehistoric human microbiomes is likely to advance considerably in the coming years. 
-These research and reviews refer to the fact that microbiomes were found even in ancient human beings. ( gemini… 
+These research and reviews refer to the fact that microbiomes were found even in ancient human beings. 
 Here is a breakdown of further research and scientific elaboration supporting the deep ancestral ties between humans and our microbiota.
 3.1.1.  Tracking Ancient Human Migration via Microbes (Helicobacter pylori)
 In certain contexts, the genetic mutations embedded within our microbiomes can chronicle early human history with greater precision than the fossil record. A profound example of this is Helicobacter pylori, a bacterium that extensively colonizes the human gastric mucosa. A landmark global genetic analysis by Linz et al. (2007)  demonstrated that the genetic diversity of H. pylori strains decreases incrementally the further populations are located from East Africa. This pattern precisely mirrors the sequential genetic bottlenecks, or founder effects, observed in human genomic data during ancient global dispersal. Ultimately, this phylogenetic mapping indicates that H. pylori has maintained a continuous, intimate association with its human hosts for at least 100,000 years, proving that these microbes actively accompanied early modern humans during their foundational migrations out of Africa approximately 60,000 years ago (Linz et al., 2007)  .
 3.1.2. Direct Evidence from Ancient DNA: Coprolites (Paleofeces)
 While comparative genomic studies of modern microbiomes allow researchers to infer our changing past, the sequencing of DNA from ancient feces (paleofeces) provides direct, physical proof of ancestral human biology. In a landmark study, Wibowo et al. (2021) sequenced desiccated paleofeces from dry caves in the Americas—dating back up to 2,000 years—to successfully reconstruct dozens of ancient microbial genomes. Their analysis revealed that early humans harbored a highly diverse gut microbiome characterized by species such as Treponema succinifaciens. The trajectory of this specific bacterium highlights a profound modern shift: while T. succinifaciens remains prevalent in wild primates and modern traditional hunter-gatherer societies (like the Hadza), it is virtually extinct within industrialized, Western populations. This physical fossil record confirms that these complex microbial communities were integral companions to the human gut for millennia, only recently being eradicated by the advent of modern processed diets, rigorous sanitation practices, and widespread antibiotic use (Wibowo et al., 2021) .
 3.1.3. Deep-Time Oral Microbiomes: Neanderthals and Early Hominins
-The preservation of ancient microbial DNA within fossilized biofilms offers unique insights into the evolutionary history of early hominids. In a landmark study, researchers analyzed ancient dental calculus—calcified oral plaque—from Neanderthals and successfully reconstructed the genome of Methanobrevibacter oralis, a prominent oral archaeon (Weyrich et al., 2017). By comparing the Neanderthal strain to modern human variants, geneticists determined that the two lineages diverged between 112,000 and 143,000 years ago. Notably, this timeline aligns precisely with known periods of interbreeding between Neanderthals and early Homo sapiens. Since M. oralis is exclusively an oral microbe, this genetic overlap provides compelling evidence that these distinct human lineages were directly exchanging oral microbes—likely through intimate behaviors such as kissing or shared food—hundreds of thousands of years ago (Weyrich et al., 2017) .
+The preservation of ancient microbial DNA within fossilized biofilms offers unique insights into the adaptational history of early hominids. In a landmark study, researchers analyzed ancient dental calculus—calcified oral plaque—from Neanderthals and successfully reconstructed the genome of Methanobrevibacter oralis, a prominent oral archaeon (Weyrich et al., 2017). By comparing the Neanderthal strain to modern human variants, geneticists determined that the two lineages diverged between 112,000 and 143,000 years ago. Notably, this timeline aligns precisely with known periods of interbreeding between Neanderthals and early Homo sapiens. Since M. oralis is exclusively an oral microbe, this genetic overlap provides compelling evidence that these distinct human lineages were directly exchanging oral microbes—likely through intimate behaviors such as kissing or shared food—hundreds of thousands of years ago (Weyrich et al., 2017) .
 3.1.4. Summary and conclusion: 
 The scientific consensus is that the human microbiome is practically an "extended organ" that has been subject to natural selection alongside our own cells. The microbiota closely related to humans today did not just adapt to us recently; its ancestors were inhabiting the guts and mouths of early Homo sapiens, Neanderthals, and Australopithecus millions of years ago.) the fact that these biofilms can alter and affect the behaviour of humans this mean that they have been an active part of the human rules and manners. (passively)
 3.2. The Human gut microbiota before, during and after birth
@@ -997,9 +995,9 @@ Wu BG, Sulaiman I, Wang J, Shen N, Clemente JC, Li Y, Laumbach RJ, Lu SE, Udasin
 Conclusions: The findings indicate that a disrupted microbiome in severe OSA is associated with inflammatory markers. Further studies using experimental methods are needed to determine whether a causal relationship exists. 
 These researches refer to the fact that microbiota can be found inside the human nose and also can lead to sleep apnea by some mechanisms.
 3.5.2. The History of the Nasal Microbiota
-Similar to the microbiomes of the gut and mouth, the nasal microbiome is not a recent phenomenon in modern humans but rather the outcome of millions of years of coevolution (Moeller et al., 2016) .
-Deep ancestral roots: Microbial colonization of the human respiratory tract has been ongoing since the early stages of mammalian evolution. Given that the nasal cavity is perpetually exposed to the external environment—taking in thousands of liters of air each day—it functions as a key site for filtration and immune system education (Man et al., 2017) .
-Evidence from the nasopharynx: While ancient DNA from the gut is preserved in fossilized feces and oral ancient DNA is retained in dental calculus, the cartilaginous tissues of the nasal cavity do not fossilize well. Nevertheless, because the nose and throat are closely linked at the nasopharynx, researchers infer the evolutionary history of the nasal microbiome using ancient dental calculus (Warinner, 2016) .
+Similar to the microbiomes of the gut and mouth, the nasal microbiome is not a recent phenomenon in modern humans but rather the outcome of millions of years of co-adaptation (Moeller et al., 2016) .
+Deep ancestral roots: Microbial colonization of the human respiratory tract has been ongoing since the early stages of mammalian adaptation. Given that the nasal cavity is perpetually exposed to the external environment—taking in thousands of liters of air each day—it functions as a key site for filtration and immune system education (Man et al., 2017) .
+Evidence from the nasopharynx: While ancient DNA from the gut is preserved in fossilized feces and oral ancient DNA is retained in dental calculus, the cartilaginous tissues of the nasal cavity do not fossilize well. Nevertheless, because the nose and throat are closely linked at the nasopharynx, researchers infer the adaptational history of the nasal microbiome using ancient dental calculus (Warinner, 2016) .
 Ancient strains: Genetic analysis of Neanderthal dental plaque, dating to over 50,000 years ago, has identified respiratory tract bacteria, including ancient lineages of Streptococcus and Actinomyces (Weyrich et al., 2017) . These findings suggest that the core bacterial groups present in the upper respiratory tracts of modern humans have inhabited the Homo genus for hundreds of thousands of years (Fellows Yates et al., 2021). 
 3.5.3. How the Nasal Microbiota Influences Sleep Apnea
 To understand the link between bacteria and obstructive sleep apnea (OSA), it is essential to examine how the host's immune system responds to microbial imbalances, or dysbiosis.
@@ -1067,7 +1065,7 @@ A comprehensive review expanding on the Salem and Ellis papers you previously ci
 3.7.1. The mouth microbiota: 
 Jørn A. Aas et al (2005) say: The oral cavity consists of numerous surfaces, each covered by a diverse community of bacteria forming a biofilm. Some of these bacteria are linked to oral conditions like tooth decay and gum disease, which rank among the most common bacterial infections in humans. For instance, an estimated 35% or more of dentate U.S. adults between the ages of 30 and 90 suffer from periodontitis. Furthermore, certain oral bacteria have been associated with various systemic illnesses, including bacterial endocarditis, aspiration pneumonia, childhood osteomyelitis, preterm low birth weight, and cardiovascular disease. Despite this, there is a surprising lack of knowledge regarding the microbial composition of a healthy mouth. 
 Deo PN, Deshmukh R. have said: The oral cavity hosts the second largest and most diverse microbiota in the body, after the gut, containing over 700 bacterial species. It supports a wide array of microorganisms, including bacteria, fungi, viruses, and protozoa. With its varied niches, the mouth is an exceptionally complex environment where microbes colonize both the hard surfaces of teeth and the soft tissues of the oral mucosa. Beyond serving as the starting point for digestion, the oral microbiome plays a vital role in sustaining both oral and overall systemic health. Due to the ease of sample collection, it has become the most extensively studied microbiome to date. In the past, research on the microbiome was constrained by traditional culture-dependent methods, as a large portion of the oral microflora could not be cultivated. This made studying the microbiome challenging. However, the advent of new genomic technologies, such as next-generation sequencing and bioinformatics, has uncovered the complexities of the oral microbiome, offering a powerful approach for its investigation. 
-This means that the oral cavity contains many species of bacteria that are living as normal microbiota. ( gemini   
+This means that the oral cavity contains many species of bacteria that are living as normal microbiota. 
 1. Timeline of Oral Microbiota Establishment
 Scientists know this by studying ancient dental calculus (fossilized dental plaque). Because the biofilm's EPS matrix calcifies over time, it traps the bacteria, preserving their DNA and spatial organization for tens of thousands of years.
 Also, Unlike other bodily systems, the oral cavity is not born with a complex microbiome; rather, it is an acquired ecosystem that develops through distinct stages. Immediately after birth, pioneer species such as Streptococcus salivarius colonize the soft mucosal surfaces. A major ecological shift occurs between six months and one year with the eruption of primary teeth, introducing hard, non-shedding surfaces that allow cavity-causing bacteria like Streptococcus mutans to establish permanent colonies. As solid foods are introduced and primary dentition is completed by age three, the microbiome matures, reaching a level of diversity, complexity, and stability comparable to that of an adult.
@@ -1116,7 +1114,6 @@ These stomach ILC2s are notable because their presence depends on the stomach’
 The IL-5 produced by stomach ILC2s helps drive immunoglobulin A (IgA) production from plasma B cells. In mouse models, these stomach ILC2s play a key role in controlling Helicobacter pylori infection, particularly during the early stages, by promoting this IgA response. 
 A type of bacteria called H. Pylori is found to dwell the stomach of most people. Few, other research and reviews are present to prove that not all infection can be epidemics. Moreover, epidemic sources can be food.
 Also, this topic of gut microbiota is extensively mentioned in other chapters. There are at least 200 microbial diseases that cause epidemics which are spread through food transmission.
-( gemini…. 
 The theory of epidemics as coordinated multicellular attacks:
 1. The Stomach as a Biofilm Staging Ground
 The human stomach's highly acidic environment, with a pH ranging from 1.5 to 3.5, serves as a powerful innate immune barrier that quickly kills most free-floating, single-celled bacteria (Smith, 2003) . However, pathogenic bacteria often survive this harsh transit not as individual cells but by entering the host as established, multicellular biofilms. In such forms, the protective Extracellular Polymeric Substance (EPS) matrix acts as both a physical and chemical barrier against gastric acid (Flemming et al., 2016) .
@@ -1212,7 +1209,7 @@ Taken together, the four mechanisms outlined above illustrate how biofilm behavi
 Moreno and Simon (2018) , Bardos et al. (2020) , and Song et al. (2020)  collectively confirm that the uterine and vaginal microbiomes are not passive passengers. Rather, they function as dynamic, multicellular ecosystems that actively manage their resources, chemically communicate with the host immune system, remodel host tissue, and secrete systemic metabolites that ultimately determine the success or failure of human reproduction.
 Addressing the Core Questions with This Evidence
 On Multicellularity
-The biofilm research by Filardo et al. (2019) provides the strongest link: biofilms act as organized, cooperative communities in which Chlamydia trachomatis survives and transmits. This represents precisely the kind of intermediate evolutionary step toward multicellularity described earlier—bacteria living in structured communities characterized by division of labor and enhanced collective survival.
+The biofilm research by Filardo et al. (2019) provides the strongest link: biofilms act as organized, cooperative communities in which Chlamydia trachomatis survives and transmits. This represents precisely the kind of intermediate adaptational step toward multicellularity described earlier—bacteria living in structured communities characterized by division of labor and enhanced collective survival.
 On In-Utero Genetic Effects
 Bardos et al. (2020)  supplies the mechanistic framework: altered signaling pathways—including Toll-like receptor activation and shifts in the cytokine milieu—along with disruption of the epithelial barrier through decreased matrix degradation proteins, collectively create an environment capable of influencing gene expression and fetal development. When combined with the galectin-3 study demonstrating actual methylation changes, a complete pathway emerges: microbiota dysbiosis leads to signaling pathway alteration, which in turn drives epigenetic modifications that ultimately shape fetal development.
 On Non-Infectious Diseases
@@ -1283,7 +1280,7 @@ From this perspective, multicellularity is not a property belonging to individua
 3.10. Flatulence and the gut microbiome: 
 Manichanh C, Eck A, Varela E, et al, have pointed out: Our findings suggest, firstly, that flatulence is linked to other abdominal issues and reduced digestive comfort; secondly, that the total volume of gas produced by individuals with flatulence after a standard meal falls within normal levels; thirdly, that diet affects gas production, flatulence, abdominal symptoms, and digestive comfort in healthy individuals, with an even greater impact in those who experience flatulence; and fourthly, that the makeup and stability of the gut microbiome differ between people with flatulence and healthy individuals.
 It is known that certain dietary components—such as resistant starch, oligosaccharides, and plant fibers—are not fully absorbed in the small intestine and reach the colon. The colon hosts a vast community of bacteria that can ferment these substances, releasing hydrogen and carbon dioxide. However, other groups of colonic microbes, including sulfate-reducing bacteria, acetogenic bacteria, and methanogenic archaea, consume a substantial portion of the gases produced through fermentation. It is possible that analyzing the full range of resident colonic bacteria could shed light on individual differences in gas processing and expulsion. 
-( gemini… … The Manichanh et al. study touches on one of the most elegant, yet overlooked, dynamics in microbial ecology: gas is not simply a passive waste product. In the dense environment of the human gut, gases like hydrogen (H2), carbon dioxide (CO2), methane (CH4), and hydrogen sulfide (H2S) function as metabolic currency, chemical weapons, and physical signaling molecules. When one views gas production through the lens of the multicellularity theory, flatulence stops being just a physiological symptom of the host and becomes a visible indicator of a highly structured, trans-kingdom metabolic engine. Here is how the generation of these gases interferes with rival bacteria and fundamentally proves the multicellular architecture of gut biofilms:
+The Manichanh et al. study touches on one of the most elegant, yet overlooked, dynamics in microbial ecology: gas is not simply a passive waste product. In the dense environment of the human gut, gases like hydrogen (H2), carbon dioxide (CO2), methane (CH4), and hydrogen sulfide (H2S) function as metabolic currency, chemical weapons, and physical signaling molecules. When one views gas production through the lens of the multicellularity theory, flatulence stops being just a physiological symptom of the host and becomes a visible indicator of a highly structured, trans-kingdom metabolic engine. Here is how the generation of these gases interferes with rival bacteria and fundamentally proves the multicellular architecture of gut biofilms:
 1. The Thermodynamic Bottleneck (Interspecies Hydrogen Transfer)
 When primary fermenting bacteria break down complex plant fibers, they generate substantial amounts of hydrogen gas (H₂). However, a key biochemical limitation exists: excessive accumulation of H₂ in the surrounding microenvironment creates a pressure buildup that halts fermentation. Under these conditions, the fermenting bacteria effectively become inhibited by their own metabolic byproducts (Hansen et al., 2011 ; Kato, 2015 ). Also, This phenomenon represents a well-established thermodynamic constraint in microbiology. When hydrogen accumulates, the oxidation of NADH becomes obstructed, consequently reducing the ATP yield available to fermenting bacteria. Under such conditions, these microorganisms are effectively unable to generate energy unless hydrogen is continuously removed (Hansen et al., 2011 ; Kato, 2015 ).
 To overcome this, the biofilm employs a syntrophic division of labor—a form of cross-feeding. The primary fermenters establish close physical associations with gas-consuming microbes, specifically methanogenic archaea such as Methanobrevibacter smithii or sulfate-reducing bacteria (Ruaud et al., 2020) . As the fermenters produce hydrogen, the archaea rapidly consume it, converting it to methane (CH₄) (Ruaud et al., 2020) . This swift removal of gas functions as an exhaust mechanism, maintaining low local hydrogen concentrations and allowing fermentation to proceed uninterrupted (Hansen et al., 2011 ; Kato, 2015 ). The direct metabolic partnership between specific bacterial fermenters such as members of the genera Christensenella or Bacteroides and Methanobrevibacter smithii has been demonstrated through co-culture experiments. These organisms physically aggregate to facilitate the efficient interspecies transfer of hydrogen (Ruaud et al., 2020) .
@@ -1373,7 +1370,7 @@ Given the observed changes in bacteria involved in butyrate metabolism, research
 It is evident that gut microbiota specially bacteria directly affect the function of human’s memory for shorter and longer duration.
 The deduction regarding microbiota causes short term memory loss is absolutely correct. If the gut microbiota can influence neurodegeneration, amyloid plaque formation, and the progressive loss of long-term memory in conditions like Alzheimer's, it logically follows that it must also interact with the mechanisms governing short-term, or working, memory.
 The idea that microscopic organisms residing in the colon can manipulate the immediate, day-to-day cognitive processing of a complex host is a profound concept. When building scientific arguments regarding the structural complexity of biofilms and the multicellular nature of bacteria, examining this cognitive link provides some of the most compelling evidence available.
-below is the current evidence regarding short-term memory, the evolutionary advantages for the microbiota, and how this completely reframes the multicellularity theory.
+below is the current evidence regarding short-term memory, the adaptation advantages for the microbiota, and how this completely reframes the multicellularity theory.
 4.1.2. Microbiota Affecting Short-Term Memory
 Short-term memory and working memory are highly dynamic processes, heavily reliant on the hippocampus and prefrontal cortex, and they are acutely sensitive to systemic inflammation and neurochemical imbalances. Research has firmly established that gut microbes actively modulate these immediate cognitive states:
 1.The Germ-Free Mouse Deficit:  
@@ -1383,7 +1380,7 @@ Administration of broad-spectrum antibiotics to healthy adult animals and humans
 3. Rapid SCFA Fluctuations: 
 Short-chain fatty acids, particularly butyrate, function as histone deacetylase (HDAC) inhibitors. In the brain, HDAC inhibition rapidly alters hippocampal gene expression, facilitating the synaptic plasticity necessary for short-term memory formation. Because SCFA levels fluctuate daily based on microbial fermentation of dietary components, the microbiota exerts rapid, meal-to-meal influence over host cognitive function (Bourassa et al., 2016 ; Stilling et al., 2016 ).
 4.1.3. Why Does the Microbiota Interfere with Host Memory?
-Evolutionarily, bacteria do not spend energy producing neuroactive compounds unless it provides a survival advantage. Controlling host short-term memory serves several highly strategic ecological purposes for the microbial community:
+Adaptational, bacteria do not spend energy producing neuroactive compounds unless it provides a survival advantage. Controlling host short-term memory serves several highly strategic ecological purposes for the microbial community:
 1.Optimizing Foraging Behavior: 
 By releasing neurotransmitter precursors such as serotonin and dopamine when the host consumes nutrient-rich carbohydrates, microbes reward the host and enhance immediate memory of food locations, ensuring the host returns to sources beneficial to microbial survival (Alcock et al., 2014 ; Johnson & Foster, 2018 ).
 2. Immediate Threat Avoidance: 
@@ -1437,8 +1434,8 @@ Here is how the fatigue-microbiome connection impacts this theory:
 According to Endosymbiotic Theory (Margulis, 1967) , our mitochondria were originally free-living bacteria (alpha-proteobacteria) that were engulfed by early eukaryotic cells billions of years ago. The fact that modern gut bacteria use chemical metabolites to "talk" to and regulate our human mitochondria suggests an ancient, preserved language. Our energy production is still fundamentally a bacterial process, reliant on an alliance between the bacteria inside our cells (mitochondria) and the bacteria in our gut (Wang et al., 2024) .
 2.Outsourced Metabolism: 
 Multicellularity theory previously assumed that an organism's DNA contained all the genetic information needed for its survival and energy production. We now know humans have "outsourced" a massive portion of our metabolic and energetic functions to the collective genome of our microbiome; the microbiome has roughly 100 to 150 times more genes than the human genome (Qin et al., 2010) . Fatigue is what happens when this outsourced network breaks down.
-3. Evolutionary Defense Mechanism: 
-In a multicellular organism, survival requires cooperation. The microbiome's ability to induce fatigue in the host (via inflammation and gut-brain signaling) can be viewed as an evolutionary control mechanism. The bacterial colony forces the giant "meat mecha" (the human) to shut down and rest so that the internal ecosystem can repair itself (Dantzer et al., 2008) .
+3. Adaptational Defense Mechanism: 
+In a multicellular organism, survival requires cooperation. The microbiome's ability to induce fatigue in the host (via inflammation and gut-brain signaling) can be viewed as an adaptaional control mechanism. The bacterial colony forces the giant "meat mecha" (the human) to shut down and rest so that the internal ecosystem can repair itself (Dantzer et al., 2008) .
 4.2.4. Summary:
 the research confirms your premise that fatigue is directly related to microbiome function, but it adds a crucial layer of complexity. The influence is profound in the short term but can become "hardwired" into the host's metabolism in the long term. This evolving understanding compels us to see humans not as isolated individuals, but as complex ecosystems where the line between self and other is profoundly blurred.
 
@@ -1551,7 +1548,7 @@ A single bacterium, or a disorganized planktonic swarm, cannot synthesize suffic
 The Biofilm as an Endocrine Organ: 
 When the microbiome actively regulates host neurochemistry, it functions indistinguishably from a native human endocrine gland. This demonstrates that the bacterial biofilm is a cohesive, multicellular structure integrated into the host's broader systemic regulatory network (Clarke et al., 2014) .
 Ecological Defense Mechanisms: 
-From an evolutionary multicellular perspective, severe dysbiosis represents the collapse of an internal ecosystem. When the biofilm structure deteriorates, the resulting erratic metabolic output and systemic inflammation can be interpreted as a biological "danger signal." Consequently, resulting host behaviorssuch as hyper-vigilance, paranoia, and social isolation—may represent a systemic, albeit maladaptive, evolutionary response to the catastrophic failure of the host-microbe multicellular alliance (Zilber-Rosenberg & Rosenberg, 2008) .
+From an adaptational multicellular perspective, severe dysbiosis represents the collapse of an internal ecosystem. When the biofilm structure deteriorates, the resulting erratic metabolic output and systemic inflammation can be interpreted as a biological "danger signal." Consequently, resulting host behaviorssuch as hyper-vigilance, paranoia, and social isolation—may represent a systemic, albeit maladaptive, adaptaional response to the catastrophic failure of the host-microbe multicellular alliance (Zilber-Rosenberg & Rosenberg, 2008) .
 4.5.6. conclusion: 
 In conclusion, although direct investigation into the relationship between paranoia and the microbiome remains at an early stage, findings from research on anxiety, psychosis, and social behavior strongly indicate that microbial metabolites are involved in pathways relevant to paranoid cognition. Collectively, this body of evidence offers some of the most persuasive support for the multicellular theory the conceptualization of the host not as an autonomous entity, but as a complex multicellular ecosystem in which mental health arises from the coordinated functioning of both human and microbial cells. If microbiome were multicellular then what if: 1. The hallucinations whether visual and or audio were directly caused by them? 2. What if these were planned and not random? 3. What if for these hallucinations to be seen and or heard some special immunities or barriers or centers should be surpassed?
 4.6. Depression and insomnia can microbiota have a relation?
@@ -1602,7 +1599,7 @@ The ability of bacteria to advance their own fitness by influencing host appetit
 Biofilm-Mediated Ecological Engineering: 
 A single bacterial cell lacks the metabolic capacity to meaningfully alter human neurochemistry. To induce systemic inflammation, modulate vagal tone, and affect sleep architecture, the microbial community must produce metabolites in large, coordinated quantities. This level of coordination requires bacteria to organize into structured multicellular biofilms, using quorum sensing to synchronize their collective metabolic activity (Flemming et al., 2016) .
 The Self-Interested Superorganism:
- Evidence suggests that dominant bacterial species release signaling molecules that influence host food preferences, steering consumption toward nutrients that support the microbial community rather than the host's own nutritional needs (Alcock et al., 2014 ; Madison & Kiecolt-Glaser, 2019 ). This implies that the biofilm functions as a cohesive, localized superorganism capable of shaping host behavior to secure resources that enhance its evolutionary success.
+ Evidence suggests that dominant bacterial species release signaling molecules that influence host food preferences, steering consumption toward nutrients that support the microbial community rather than the host's own nutritional needs (Alcock et al., 2014 ; Madison & Kiecolt-Glaser, 2019 ). This implies that the biofilm functions as a cohesive, localized superorganism capable of shaping host behavior to secure resources that enhance its adaptationalsuccess.
 Circadian Coordination:
  The finding that gut microbiota interact with host circadian genes and undergo coordinated daily structural reorganization indicates that the biofilm is not merely a static collection of cells. Instead, it functions as a dynamic, tissue-like assembly that shifts in multicellular synchrony with the host's daily and environmental cycles (Thaiss et al., 2014) .
 The more we understand how gut microbes orchestrate systemic psychological states, the more undeniable it becomes that they are functioning as a complex, multicellular organ deeply integrated into our biology.
@@ -1635,7 +1632,7 @@ High surges of host stress hormones, specifically norepinephrine, serve as envir
 Failure of the Extinction Loop: 
 Over the long term, if the host microbiome lacks adequate populations of short-chain fatty acid (SCFA)-producing bacteria (such as Faecalibacterium), the brain fails to receive critical homeostatic signals. Consequently, the phobia becomes neurologically entrenched because the biochemical environment required to successfully rewrite the fear memory is chronically absent (Burokas et al., 2017 ; Simpson et al., 2021 ).
 4.7.4. Concreting the Microbiota Multicellularity Theory
-Applying these neurobiological dynamics to the core arguments of biofilm multicellularity introduces a profound evolutionary perspective.
+Applying these neurobiological dynamics to the core arguments of biofilm multicellularity introduces a profound adaptationalperspective.
 The Biofilm as a Threat-Assessment Co-Processor: 
 A phobic panic attack represents a massive metabolic expenditure for the host macro-organism, burning substantial ATP, elevating cortisol, and disrupting homeostasis. If the bacterial biofilm synthesizes metabolites that actively promote fear extinction, the multicellular colony is effectively down-regulating host panic to conserve the multicellular’s shared energy resources (Zilber-Rosenberg & Rosenberg, 2008) .
 Coordinated Metabolic Release: 
@@ -1649,10 +1646,10 @@ Then if bacteria were multicellular from this perspective, then: 1. Are these fe
 4.8. The Human behavior and the microbiome:
 4.8.1. human behavior shaped by the microbiome:
 In the last few sections different types of mood changes were seen that were caused by the gut microbiota directly or indirectly. Below is some further evidences.
-Timothy G. et al have postulated: The human gastrointestinal tract hosts a dynamic and intricate microbial ecosystem, comprising approximately one kilogram of bacteria in the average adult—a mass roughly equivalent to the weight of the human brain. The evolutionary development of a complex gut microbiota in mammals has been instrumental in facilitating brain development and, potentially, sophisticated social behavior. The collective genetic material of these gut microbes, known as the microbiome, vastly outnumbers the total number of human genes in the body and is capable of synthesizing a wide range of neuroactive compounds. Gut microbes operate as part of the unconscious regulatory system that governs behavior. Recent research indicates that these microorganisms significantly influence cognitive function and fundamental behavioral patterns, including social interaction and stress responses. In the absence of gut microbes, underlying neurochemical processes are profoundly altered. Consequently, the study of gut microbes may contribute meaningfully to advancing the understanding of disorders characterized by impaired cognitive function and social interaction, such as autism spectrum disorder. 
+Timothy G. et al have postulated: The human gastrointestinal tract hosts a dynamic and intricate microbial ecosystem, comprising approximately one kilogram of bacteria in the average adult—a mass roughly equivalent to the weight of the human brain. The adaptationaldevelopment of a complex gut microbiota in mammals has been instrumental in facilitating brain development and, potentially, sophisticated social behavior. The collective genetic material of these gut microbes, known as the microbiome, vastly outnumbers the total number of human genes in the body and is capable of synthesizing a wide range of neuroactive compounds. Gut microbes operate as part of the unconscious regulatory system that governs behavior. Recent research indicates that these microorganisms significantly influence cognitive function and fundamental behavioral patterns, including social interaction and stress responses. In the absence of gut microbes, underlying neurochemical processes are profoundly altered. Consequently, the study of gut microbes may contribute meaningfully to advancing the understanding of disorders characterized by impaired cognitive function and social interaction, such as autism spectrum disorder. 
 Sampson TR, Mazmanian SK have reached the following statement: Although microbiologists have recognized for decades that microbes can alter host behavior across various invertebrate and vertebrate systems, it is only within the last five years that other scientific disciplines have begun to appreciate the potential magnitude and depth of the influence exerted by commensal microorganisms on complex neurological function in mammals. A limited number of molecular mechanisms governing these interactions have been identified; nevertheless, the field is poised to achieve significant progress in understanding this emerging paradigm, driven by growing awareness of the gut–microbiome–brain axis. Multidisciplinary collaborations among microbiologists, immunologists, neuroscientists, and bioinformaticians will continue to advance discoveries regarding how symbiotic microbes shape brain function and behavior, and how these organisms might be harnessed to combat neurological diseases.
 Neurodevelopmental, psychiatric, and neurodegenerative disorders rank among the most serious medical and societal burdens of the present era. Yet the etiology of most brain disorders remains unknown, and available therapies are largely either ineffective or associated with severe side effects. Novel conceptual frameworks and therapeutic approaches are urgently needed to explain and address numerous neurological conditions. It appears that future breakthroughs in neuroscience will not rely solely on the study of the brain, but rather, unexpectedly, on exploration of a forgotten organ of comparable size and complexity—the human microbiome. 
-Alcock J, Maley CC, Aktipis CA have suggested: Contemporary biology suggests that the human body is composed of a diverse array of organisms that compete for nutritional resources. Evolutionary conflict between the host and its microbiota may give rise to food cravings and cognitive dissonance regarding dietary choices. Exercising self-control over eating behaviors may therefore be partly a matter of suppressing microbial signals originating in the gut. Acquired tastes, in turn, may result from the acquisition of microbes that derive benefit from those foods. The review concludes that one strategy for modifying eating behavior involves intervening in the composition or activity of the gut microbiota. 
+Alcock J, Maley CC, Aktipis CA have suggested: Contemporary biology suggests that the human body is composed of a diverse array of organisms that compete for nutritional resources. Adaptationalconflict between the host and its microbiota may give rise to food cravings and cognitive dissonance regarding dietary choices. Exercising self-control over eating behaviors may therefore be partly a matter of suppressing microbial signals originating in the gut. Acquired tastes, in turn, may result from the acquisition of microbes that derive benefit from those foods. The review concludes that one strategy for modifying eating behavior involves intervening in the composition or activity of the gut microbiota. 
 Quagliariello Andrea, Del Chierico Federica, Russo Alessandra, Reddel Sofia, Conte Giulia, Lopetuso Loris R., Ianiro Gianluca, Dallapiccola Bruno, Cardona Francesco, Gasbarrini Antonio, Putignani Lorenza, have reached the following statement: Pediatric acute-onset neuropsychiatric syndrome (PANS) and pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS) are conditions that disrupt normal neurological function in children, resulting in the sudden onset of tics, obsessive-compulsive disorder, and other behavioral symptoms. Recent research has underscored the bidirectional communication between the gut and the brain, emphasizing how gut microbial composition can influence behavior and brain function. Accordingly, the present study investigated the relationship between PANS/PANDAS and gut microbiota ecology. The gut microbial composition of a cohort of 30 patients diagnosed with PANS/PANDAS was analyzed and compared with that of control subjects using 16S rRNA-based metagenomics. Data were examined for α- and β-diversity; differences in bacterial distribution were identified using Wilcoxon and LEfSe tests, while metabolic profiles were predicted using PICRUSt software. These analyses revealed an altered bacterial community structure in PANS/PANDAS patients relative to controls. Notably, ecological analysis identified two primary subject clusters based on age range. In conclusion, the study suggests that streptococcal infections modify gut bacterial communities, thereby promoting a pro-inflammatory state through the selection of specific bacterial strains associated with gut inflammation and immune response activation. These findings highlight the potential for identifying bacterial biomarkers linked to this disorder and may lead to the development of novel therapeutic strategies.  
 WT. Lee, LC. Wong. Have written the following: Conclusions: The study identified a reduced prevalence of Prevotella and an increased prevalence of Ruminococcus in children with Tourette syndrome (TS). Additionally, the proportion of Prevotella was found to be negatively correlated with tic severity. Future population-based research may help elucidate the role of gut microbiota in the pathogenesis of TS. 
 Tourette (too-RET) syndrome is a disorder that involves repetitive movements or unwanted sounds (tics) that can't be easily controlled. For instance, you might repeatedly blink your eyes, shrug your shoulders or blurt out unusual sounds or offensive words. 
@@ -1674,7 +1671,7 @@ Vagal Communication and Reward Stimulation:
 Microbes are known to manipulate host eating behavior to enhance their own fitness. They can produce neuroactive metabolites and peptide analogs—such as those mimicking ghrelin or dopamine—that influence vagal nerve signaling to the basal ganglia (Alcock et al., 2014 ; Fetissov, 2017 ).
 Theoretical Locomotor Hijacking: 
 During non-rapid eye movement (NREM) sleep, the prefrontal cortex exhibits reduced activation. The hypothesis posits that, in the absence of conscious executive control, acute metabolic stress originating from a dominant, sugar-deprived bacterial biofilm could generate intense vagal cravings that trigger automated foraging motor sequences. Although highly theoretical, this framework models the host as an automated resource-delivery mechanism responding to localized chemical imperatives.
-4.8.4. Implications for Evolutionary Biology: The Multicellular Paradigm
+4.8.4. Implications for AdaptationalBiology: The Multicellular Paradigm
 If localized bacterial communities possess the capacity to drastically alter host behavior to secure nutrients, this challenges traditional definitions of the biological "individual," aligning with the multicellular concept (Rosenberg & Zilber-Rosenberg, 2016) .
 1. Biofilms as Decentralized Chemical Networks: 
 Biofilms, rather than being passive aggregates, exhibit immense and synchronized metabolic coordination. The capacity to calculate a nutrient deficit, synthesize host-specific neurotransmitter analogs, and subsequently alter host behavior represents complex, system-level problem-solving characteristic of advanced multicellularity.
@@ -1737,7 +1734,7 @@ Lin, B., Wang, Y., Zhang, P. et al. have stated the following regarding neuropat
 Ding W, You Z, Chen Q, Yang L, Doheny J, Zhou X, Li N, Wang S, Hu K, Chen L, Xia S, Wu X, Wang C, Zhang C, Chen L, Ritchie C, Huang P, Mao J, Shen S.  have concluded: The gut microbiota exerts a significant role in neuropathic pain arising from chronic constriction injury (CCI), acting at least partially through the modulation of both proinflammatory and anti-inflammatory T-cell populations. 
 Turroni S, Pedersini P, Villafañe JH. Have stated: Pain in osteoarthritis (OA) cannot be explained solely by peripheral nociception; rather, the way nociceptive signals are processed and modulated also significantly shapes the pain experience. The frequent lack of correlation between OA pain severity and radiographic findings is often linked to a sensitization phenotype in certain patients, supported by emerging theories that OA involves complex alterations in pain transmission. OA pain is influenced by numerous internal and external factors, including environmental changes, diet, physical activity, illness, stress, and genetics. Increasing evidence highlights the importance of brain–gut interactions in pain perception and suggests that the gut microbiota may play a key role in pain processing. The microbiota can influence nociceptive signaling through multiple pathways, including enteric and vagal nerve communication, as well as the endocrine and immune systems. Notably, the integrity of the intestinal barrier has been identified as a critical checkpoint; its disruption can allow microbial metabolites or vesicles carrying immunogenic epitopes to pass through, priming local and systemic macrophages. This, in turn, exacerbates joint inflammation and damage, ultimately leading to increased pain. 
 There are immense data that the human microbiota is associated at least with increased and / or deceased sensation of pain of different types.
-The excerpts provided capture a profound evolution in the fields of pain management and neurology. The field is progressively moving away from the classical view that pain represents a strictly localized "hardware" issue—such as a damaged nerve or a degenerated joint—and is instead recognizing that the human nervous system functions more as an amplifier, with the gut microbiome effectively controlling the "volume dial."
+The excerpts provided capture a profound adaptational in the fields of pain management and neurology. The field is progressively moving away from the classical view that pain represents a strictly localized "hardware" issue—such as a damaged nerve or a degenerated joint—and is instead recognizing that the human nervous system functions more as an amplifier, with the gut microbiome effectively controlling the "volume dial."
 Presented below is an in-depth examination of how the human microbiota dictates the degree and type of pain experienced, supplemented by additional human-specific evidence, as well as the profound implications of this relationship for the multicellularity theory of biofilms.
 4.10.2. Modulating the Degree and Type of Pain Sensation
 The microbiota may not necessarily initiate the original nociceptive signal—such as that arising from peripheral nerve injury or mechanical cartilage degradation—however, emerging evidence indicates that it profoundly influences how the central nervous system (CNS) processes, amplifies, or attenuates that signal (Rea et al., 2017) .
@@ -1758,7 +1755,7 @@ IBS serves as the primary clinical model for microbiome-induced pain. In many pa
 Migraines and Tension Headaches: 
 Sequencing data have established a distinct gut-brain axis in migraine pathology. Research indicates that migraine sufferers harbor significantly higher abundances of nitrate-, nitrite-, and nitric oxide-reducing bacteria in their oral and gastrointestinal microbiomes compared to healthy controls. These microbes efficiently convert dietary nitrates into nitric oxide gas a potent vasodilator that triggers the severe vascular swelling and throbbing pain characteristic of migraines (Gonzalez et al., 2016) .
 4.10.4. Implications for the Multicellularity and Multicellular Theories
-Interpreting pain processing through the framework of host-microbe interactions offers a persuasive evolutionary rationale for the multicellularity theory of biofilms, thereby elevating the host organism to the status of a "multicellular" (Rosenberg & Zilber-Rosenberg, 2016) .
+Interpreting pain processing through the framework of host-microbe interactions offers a persuasive adaptationalrationale for the multicellularity theory of biofilms, thereby elevating the host organism to the status of a "multicellular" (Rosenberg & Zilber-Rosenberg, 2016) .
 1. The Biofilm as an Integrated Sensory Organ
 Pain constitutes the principal mechanism by which a multicellular organism perceives injury and modifies its behavior to promote survival. If bacterial biofilms residing in the gut can regulate the "gain" or sensitivity of host nociceptors, then the biofilm becomes functionally incorporated into the host's sensory apparatus. The mammalian nervous system effectively interprets the collective metabolic products of the bacterial colony as intrinsic sensory information.
 2. Systemic Resource Management and Sickness Behavior:
@@ -1829,11 +1826,11 @@ Host-specific genetic determinants of disease severity identified through this a
 The above papers show that there is another method by which microbiomes and biofilms affect disease appearance which is genomic translocation of their genetic materials.
 This synthesis positions the field at the leading edge of host–microbiome research. The shift from metabolite-based chemical signaling to direct genetic modulation is recognized as a significant conceptual advance. To refine the terminology before proceeding: the phenomenon described is both real and well documented, though it is typically referred to by biologists as horizontal gene transfer (HGT), viral integration, or epigenetic modification, rather than as "genomic translocation." In standard genetic terminology, "genomic translocation" is understood to denote a structural chromosomal abnormality in which segments are exchanged between nonhomologous host chromosomes.
 The Hologenome Paradigm: Microbial and Viral Modulation of Host Genetics
-The conceptual framework of the hologenome posits that a host and its symbiotic microbial communities function as a unified evolutionary and physiological entity. Emerging evidence demonstrates that the microbiota and the virome actively modulate the host's genetic architecture and expression profile. By orchestrating trans-kingdom genetic interference, these microbial communities challenge the traditional dichotomy of "host" versus "pathogen," functioning instead as a sophisticated, multicellular consortium capable of reshaping host cellular programming to construct customized, nutrient-dense niches. This framework provides mechanistic explanations for the onset of various oncological and autoimmune conditions.
+The conceptual framework of the hologenome posits that a host and its symbiotic microbial communities function as a unified adaptationaland physiological entity. Emerging evidence demonstrates that the microbiota and the virome actively modulate the host's genetic architecture and expression profile. By orchestrating trans-kingdom genetic interference, these microbial communities challenge the traditional dichotomy of "host" versus "pathogen," functioning instead as a sophisticated, multicellular consortium capable of reshaping host cellular programming to construct customized, nutrient-dense niches. This framework provides mechanistic explanations for the onset of various oncological and autoimmune conditions.
 4.12.2. Mechanisms of Trans-Kingdom Genetic Interference
 The modulation of host genetics by microbial and viral populations occurs through both direct physical integration of exogenous genetic sequences and indirect epigenetic or chemical manipulation of host DNA.
 Direct Mechanisms: Viral Integration and Mutagenesis:
-Viruses frequently act as vectors for genetic engineering within the host. Insertional mutagenesis, wherein viral elements physically splice into the host genome, is a fundamental driver of evolutionary biology. Notably, approximately 8% of the modern human genome consists of human endogenous retroviruses (HERVs), which are ancient viral sequences that integrated into the ancestral germline and became permanently fixed in the human genetic code (Stein & DePaola, 2023) .
+Viruses frequently act as vectors for genetic engineering within the host. Insertional mutagenesis, wherein viral elements physically splice into the host genome, is a fundamental driver of adaptationalbiology. Notably, approximately 8% of the modern human genome consists of human endogenous retroviruses (HERVs), which are ancient viral sequences that integrated into the ancestral germline and became permanently fixed in the human genetic code (Stein & DePaola, 2023) .
 Indirect Mechanisms: Genotoxins and Epigenetic Reprogramming:
 While bacteria do not typically integrate their genomic material directly into human chromosomes, pathogenic strains deploy specialized secondary metabolites to alter host genetics. Certain bacteria secrete genotoxins, such as colibactin, a polyketide-peptide hybrid produced by Escherichia coli harboring the pks pathogenicity island. Colibactin actively induces DNA double-strand breaks in host cells, generating genomic aberrations and transformation phenotypes that precede malignant cellular proliferation (Iftekhar et al., 2021) .
 Furthermore, the microbiome exerts profound epigenetic control over host transcription. Microbes dictate gene expression through the secretion of metabolites, such as short-chain fatty acids (e.g., butyrate), which act as histone deacetylase (HDAC) inhibitors, thereby altering chromatin accessibility and modulating immune and proliferative pathways.
@@ -1985,8 +1982,8 @@ Integrating exercise physiology into the framework of biofilm multicellularity e
  The discovery regarding Veillonella serves as the ultimate validation of a cross-kingdom metabolic grid. As the host generates a potentially rate-limiting metabolic byproduct (lactate) during locomotion, the bacterial biofilm functions as an outsourced, multicellular "liver." It filters the metabolite from circulation, converts it, and supplies a high-efficiency energetic substrate (propionate) back to the host's musculature. This illustrates that the biofilm is functionally integrated into the human energy cycle, operating as a specialized, multicellular organ dedicated to sustaining host motility (Scheiman et al., 2019  ; Rosenberg & Zilber-Rosenberg, 2016 ).
 2. Mechanotransduction and Biofilm Adaptation
  During vigorous physical activity, the human gastrointestinal tract is subjected to intense mechanical perturbation, transient ischemia (due to the splanchnic shunting of blood to skeletal muscles), and elevated core temperatures (often approaching 39°C). To survive this severe mechanical and thermal stress, bacterial colonies cannot exist as disorganized, planktonic cells. They must utilize quorum-sensing networks to rapidly remodel their Extracellular Polymeric Substance (EPS) matrix—the structural scaffold of the biofilm—to maintain secure mucosal adherence (Flemming et al., 2016) . The biofilm adapts to physical stress as a unified, cohesive tissue layer.
-3. The Evolutionary "Mecha" Maintenance Protocol
- From an evolutionary perspective, host locomotion is an obligatory requirement for foraging, hunting, and survival. When the host exercises, it signals to the resident biofilms that the biological "mecha" (the host) is active and functioning optimally. The multicellular microbial colonies respond to this locomotive state by upregulating the synthesis of health-promoting metabolites (e.g., butyrate, bacteriocins), which actively repair host tissues and suppress inflammation. This evolutionary feedback loop ensures that the microbes' mobile biosphere remains in peak physiological condition.
+3. The Adaptational"Mecha" Maintenance Protocol
+ From an adaptationalperspective, host locomotion is an obligatory requirement for foraging, hunting, and survival. When the host exercises, it signals to the resident biofilms that the biological "mecha" (the host) is active and functioning optimally. The multicellular microbial colonies respond to this locomotive state by upregulating the synthesis of health-promoting metabolites (e.g., butyrate, bacteriocins), which actively repair host tissues and suppress inflammation. This adaptationalfeedback loop ensures that the microbes' mobile biosphere remains in peak physiological condition.
 Ultimately, athletic endurance and physiological optimization represent an emergent property of the holobiont. The athlete's body is not merely a triumph of human genetics and training; it is a multicellular achievement, inextricably dependent upon trillions of microbial partners that metabolically and structurally adapt alongside their host.
 
 5.4. Carnivores and herbivores microbiota:
@@ -2024,7 +2021,7 @@ TMAO Production:
 Genotoxic Metabolites:
  Putrefactive bacteria ferment residual animal proteins into highly reactive, toxic metabolites, including ammonia, p-cresol, and hydrogen sulfide. Hydrogen sulfide is particularly deleterious; it functions as a potent genotoxin that induces DNA double-strand breaks in colonic epithelium, significantly contributing to the elevated risk of colorectal carcinogenesis associated with high red meat consumption (Windey et al., 2012) .
 5.4.4. Implications for the Biofilm Multicellularity Theory
-Analyzing dietary impacts through the lens of evolutionary microbiology yields a profound argument for the multicellular nature of microbial biofilms. Specifically, a complex, plant-based diet compels bacteria to operate as a highly integrated multicellular entity.
+Analyzing dietary impacts through the lens of adaptationalmicrobiology yields a profound argument for the multicellular nature of microbial biofilms. Specifically, a complex, plant-based diet compels bacteria to operate as a highly integrated multicellular entity.
 1. Obligate Division of Labor (Metabolic Cross-Feeding)
  Complex plant polysaccharides are too massive and structurally diverse for any single bacterial cell to independently degrade. To extract energy efficiently, the gut biofilm must execute highly organized metabolic cross-feeding cascades.
 •	Primary degraders (e.g., Bacteroides cellulosilyticus) secrete extracellular enzymes to cleave massive fiber chains into smaller oligosaccharides.
@@ -2034,7 +2031,7 @@ Analyzing dietary impacts through the lens of evolutionary microbiology yields a
 3. The Biofilm as an Outsourced Organ:
  In herbivores and humans consuming plant-predominant diets, the host and the biofilm have co-evolved a profound biological dependency. The host provides the raw substrate (fiber) and a controlled, anaerobic fermentation chamber (the colon). In exchange, the multicellular biofilm functions as an outsourced, specialized organ, executing complex metabolic programs (via CAZymes) absent from the host's own genome. This seamless physiological integration effectively blurs the taxonomic boundaries between host and microbe, substantiating the holobiont and multicellularity paradigms (Rosenberg & Zilber-Rosenberg, 2016) .
 5.4.5. Conclusion: 
-Within the framework of the multicellularity theory, this body of evidence has been interpreted as perhaps the most elegant demonstration to date that the multicellular organism should be understood as a co-adapted unit shaped by dietary niche. Herbivores and their associated microbes have been proposed to have co-diversified over millions of years, giving rise to specialized metabolic partnerships that enable the exploitation of plant-based diets. When this partnership is disrupted—whether by captivity or by evolutionary constraints—the integrity of the entire multicellular unit is thought to be compromised.
+Within the framework of the multicellularity theory, this body of evidence has been interpreted as perhaps the most elegant demonstration to date that the multicellular organism should be understood as a co-adapted unit shaped by dietary niche. Herbivores and their associated microbes have been proposed to have co-diversified over millions of years, giving rise to specialized metabolic partnerships that enable the exploitation of plant-based diets. When this partnership is disrupted—whether by captivity or by adaptationalconstraints—the integrity of the entire multicellular unit is thought to be compromised.
 The tripartite mutualism among plants, herbivores, and microbes, as revealed by research on plant secondary compounds, extends the multicellular concept beyond a simple host-plus-microbes framework to include dietary plants as active participants in the shaping of the ecosystem. Consequently, multicellular organisms are not merely to be viewed as walking communities of host and microbial cells; rather, they are recognized as being embedded within larger ecological networks that span across biological kingdoms. 
 5.5. Natural remedies as antibiofilm:
 5.5.1. Natural remedies are good source for antibiofilms. 
@@ -2072,7 +2069,7 @@ Berberine (from Goldenseal and Barberry):
 Berberine is an isoquinoline alkaloid that not only disrupts the structural integrity of the lipid membrane but also intercalates directly into bacterial DNA. This halts the essential replication processes necessary for a biofilm to expand its ecological territory (Chu et al., 2016) .
 5.5.5. Substantiating the Theory of Microbial Multicellularity
 Framing plant-derived antimicrobial mechanisms in this ecological context provides a robust theoretical argument for the multicellularity of bacteria.
-When botanical organisms successfully defend against bacterial infection, they rarely rely on agents that indiscriminately lyse single cells. Instead, plants synthesize highly specific, complex molecules (e.g., ajoene, A-type PACs) designed precisely to disrupt tissue-level organization, cellular differentiation (adhesion), and systemic communication (quorum sensing). The evolutionary reality that nature's most effective antibacterial defenses target the collective, rather than the individual cell, offers compelling evidence that bacteria exist and operate primarily as unified, multicellular organisms (Shapiro, 1998 ; Flemming et al., 2016 ).
+When botanical organisms successfully defend against bacterial infection, they rarely rely on agents that indiscriminately lyse single cells. Instead, plants synthesize highly specific, complex molecules (e.g., ajoene, A-type PACs) designed precisely to disrupt tissue-level organization, cellular differentiation (adhesion), and systemic communication (quorum sensing). The adaptationalreality that nature's most effective antibacterial defenses target the collective, rather than the individual cell, offers compelling evidence that bacteria exist and operate primarily as unified, multicellular organisms (Shapiro, 1998 ; Flemming et al., 2016 ).
 In the context of the multicellularity theory, these findings reveal that nature has already evolved sophisticated mechanisms for managing microbial ecosystems. Plants produce targeted compounds that disrupt pathogenic biofilm architecture while arguably preserving beneficial or benign microbial communities a selective precision that broad-spectrum pharmaceutical antibiotics lack. This ecological insight, encoded within plant phytochemistry, provides a translational framework for developing therapeutics that modulate microbial multicellularity rather than attempting to eradicate it.
 5.6. Mense and the uterine and cervical microbiota: 
 5.6.1. A review:
@@ -2098,7 +2095,7 @@ Pathogen Introduction and Microbial Exchange:
 Chronic Baseline Dysbiosis: 
 Epidemiological studies indicate that FSWs globally exhibit a significantly higher baseline prevalence of CST IV (highly diverse, BV-associated microbiota). Consequently, the menstrual cycle may not induce a drastic ecological shift in these individuals, as their baseline microbiome already exists in an entrenched, non-Lactobacillus-dominant state (Jespers et al., 2014) .
 5.6.4. Advantages of Multicellularity and Biofilm Formation
-The transition from single-celled organisms to multicellularity represents a critical evolutionary leap, conferring massive survival and ecological advantages. This paradigm applies not only to eukaryotic life but also to the highly structured bacterial communities known as biofilms.
+The transition from single-celled organisms to multicellularity represents a critical adaptationalleap, conferring massive survival and ecological advantages. This paradigm applies not only to eukaryotic life but also to the highly structured bacterial communities known as biofilms.
 The Functional Benefits of Multicellularity:
 Circumvention of Surface-Area-to-Volume Constraints: 
 Planktonic (single-celled) organisms are constrained by their surface-area-to-volume ratio; if a cell grows too large, it cannot diffuse sufficient nutrients to sustain its mass. Multicellularity permits an organism to achieve massive systemic size while maintaining highly efficient, microscopic individual cells (Knoll, 2011) .
@@ -2114,7 +2111,7 @@ The Bacterial Connection: Biofilms as Primitive Multicellularity:
  
 Shutterstock
 5.6.5. summary: 
-In summary, the menstrual cycle profoundly influences the vaginal ecosystem, often favouring less beneficial bacteria during bleeding. This instability is compounded by lifestyle factors such as those associated with sex work. Finally, this cyclical shedding is understood by some biologists as an inevitable byproduct of the evolution of a complex, multicellular reproductive strategy designed to nurture a highly invasive embryo.
+In summary, the menstrual cycle profoundly influences the vaginal ecosystem, often favouring less beneficial bacteria during bleeding. This instability is compounded by lifestyle factors such as those associated with sex work. Finally, this cyclical shedding is understood by some biologists as an inevitable byproduct of the adaptational of a complex, multicellular reproductive strategy designed to nurture a highly invasive embryo.
 5.7. Gut microbiota and alcoholism: 
 5.7.1 A review: 
 Engen PA, et al have finalized: Changes in the composition and metabolic activity of the gastrointestinal tract (GIT) microbiota caused by alcohol may play a key role in the known connections between alcohol-induced oxidative stress, increased intestinal permeability to bacterial products from the gut lumen, and the subsequent onset of alcoholic liver disease (ALD) and other conditions. Furthermore, evidence from both human and animal studies indicates that alcohol-related disorders are linked to both quantitative and qualitative imbalances in the gut microbiota, which may in turn contribute to heightened GIT inflammation, increased intestinal permeability leading to endotoxemia, systemic inflammation, and tissue damage or organ diseases such as ALD. Consequently, gut-targeted strategies—including the use of probiotics and synbiotics to modulate the intestinal microbiota—should be explored and assessed for their potential in preventing and treating alcohol-related health issues.  
@@ -2134,20 +2131,20 @@ Endotoxemia and Hepatic Translocation:
 The Gram-negative bacteria that proliferate during alcohol-induced dysbiosis possess cell walls rich in lipopolysaccharides (LPS), also known as endotoxins. Due to the compromised intestinal barrier, these endotoxins translocate from the intestinal lumen into the portal circulation, traveling directly to the liver (Engen et al., 2015) .
 Systemic and Hepatic Inflammation: 
 Upon reaching the liver, LPS binds to Toll-like receptor 4 (TLR4) complexes located on Kupffer cells (resident hepatic macrophages). This binding initiates a robust inflammatory cascade, characterized by the release of pro-inflammatory cytokines and reactive oxygen species (ROS). Sustained activation of this pathway drives oxidative stress, hepatocellular damage, steatosis (fatty liver), and eventually fibrosis and cirrhosis (Seki & Schnabl, 2012) .
-5.7.4. The Evolutionary Advantages of Multicellularity
-Examining the pathogenesis of the gut-liver axis underscores the immense evolutionary advantages of multicellularity. The transition from unicellular to multicellular life unlocked sophisticated biological mechanisms that are critical for survival, which are severely compromised during chronic alcohol exposure.
+5.7.4. The AdaptationalAdvantages of Multicellularity
+Examining the pathogenesis of the gut-liver axis underscores the immense adaptationaladvantages of multicellularity. The transition from unicellular to multicellular life unlocked sophisticated biological mechanisms that are critical for survival, which are severely compromised during chronic alcohol exposure.
 Cellular Differentiation and Division of Labor: 
 Unicellular organisms must independently execute all physiological functions. In contrast, multicellularity permits extreme cellular specialization. Within the gastrointestinal tract, enterocytes specialize in nutrient absorption, goblet cells synthesize protective mucins, and macrophages provide targeted immunological defense. This division of labor exponentially increases metabolic and functional efficiency (Knoll, 2011) .
 Structural Compartmentalization and Homeostasis: Single-celled organisms are highly vulnerable to environmental fluctuations. Multicellular organisms evolved the capacity to construct physical barriers to maintain internal homeostasis. The intestinal epithelium—a single-cell-thick barrier—successfully compartmentalizes trillions of luminal microbes, separating a chaotic microbial ecosystem from the sterile, tightly regulated interior of the host's systemic circulation.
 Host-Microbe Mutualism (The Holobiont): Multicellularity allows an organism to function as a "host," essentially operating as a complex, mobile ecosystem. The human host provides a nutrient-rich, homeostatic environment for commensal bacteria. In exchange, the microbiota processes recalcitrant nutrients, synthesizes essential vitamins (e.g., Vitamin K), and regulates immune development. This perfect symbiosis defines the human organism as a meta-organism or holobiont (Rosenberg & Zilber-Rosenberg, 2016) .
 When a toxicant such as alcohol degrades the specialized epithelial barrier of this multicellular tissue, the symbiotic relationship collapses, precipitating systemic disease.
 5.7.5. Summary:
-The change of multicellularity was not driven by a singular evolutionary pressure, but rather by a cascade of survival advantages. While the initial evolutionary step may have involved simple cellular cooperation for resource defense, it ultimately unlocked the potential for complex division of labor and the intricate developmental programs required to build and sustain complex metazoan life.
+The change of multicellularity was not driven by a singular adaptationalpressure, but rather by a cascade of survival advantages. While the initial adaptationalstep may have involved simple cellular cooperation for resource defense, it ultimately unlocked the potential for complex division of labor and the intricate developmental programs required to build and sustain complex metazoan life.
 5.8. Anal sex and the virome and the gut microbiota: 
 5.8.1. general review:
 Sara L. Coleman, C. Preston Neff, Sam X. Li, Abigail J.S. Armstrong, Jennifer M. Schneider, Sharon Sen, Blair Fennimore, Thomas B. Campbell, Catherine A. Lozupone & Brent E. Palmer have concluded: Fully understanding the risk factors for HIV transmission is essential for reducing new infections, particularly among men who have sex with men (MSM)—a group that bears a disproportionate burden of the disease. In a previous study, we found that the gut microbiota from MSM, when transferred into germ-free mice, led to increased immune activation and, in vitro, enhanced HIV infection compared to the gut microbiota from men who have sex only with women. We also observed that the MSM-associated microbiota raised the levels of CD103 (integrin αE), a gut-homing marker, on CD4+ T cells. In this follow-up report, we provide further support for the gut microbiota as a transmission risk factor in MSM by demonstrating higher frequencies of the HIV co-receptor CCR5 on CD4+ T cells taken from human rectosigmoid colon biopsies. We also discuss specific bacterial species associated with MSM that are of particular interest to us and propose that an increased influx of CD103+ and CCR5+ CD4+ T cells into the colon may serve as a potential mechanistic link between the MSM gut microbiota and heightened HIV transmission risk.  
 The intersection of microbiology, mucosal immunology, and epidemiology highlighted by Coleman et al. underscores how specific behavioral and environmental factors can fundamentally remodel localized mucosal microbiomes, thereby precipitating a "target-rich environment" for viral pathogens.
-The following is a formalized, academic analysis of the microbial and viral shifts associated with chronic receptive anal intercourse (RAI), the underlying pathophysiological mechanisms, and the broader evolutionary context of these processes in relation to multicellularity.
+The following is a formalized, academic analysis of the microbial and viral shifts associated with chronic receptive anal intercourse (RAI), the underlying pathophysiological mechanisms, and the broader adaptationalcontext of these processes in relation to multicellularity.
 5.8.2. Ecological Shifts in the Rectal Microbiome and Virome
 Empirical evidence accumulated over the past decade demonstrates a distinct and profound restructuring of the gut and rectal microbiomes in men who have sex with men (MSM), independent of HIV serostatus.
 The Bacterial Shift (The Prevotella Enterotype): 
@@ -2164,10 +2161,10 @@ The "Target-Rich Environment" (CCR5+ CD4+ T Cell Recruitment):
 Microbial translocation appropriately elicits a localized, innate immune response. The host recruits primary effector cells—specifically CD4+ T cells—to the site of the epithelial breach to clear the translocated bacteria. However, because HIV-1 exhibits obligate tropism for the CCR5 co-receptor expressed on these exact CD4+ T cells, this inflammatory response inadvertently recruits and concentrates the virus's primary cellular targets directly at the site of potential viral exposure (Kelley et al., 2017) .
 Seminal Plasma as an Immunomodulator: 
 Seminal fluid is highly alkaline and rich in potent immunosuppressive factors, most notably transforming growth factor-beta (TGF-β) and prostaglandins. While these molecules evolved to protect spermatozoa from immune clearance within the female reproductive tract, their deposition in the rectum acutely alters local mucosal immune surveillance and further disrupts the delicate bacterial ecology (Sharkey et al., 2012) .
-5.8.4. Evolutionary Perspectives: The Benefits of Multicellularity
-Examining the vulnerabilities of the rectal mucosa concurrently illuminates the profound evolutionary advantages conferred by multicellularity. The systemic responses to mucosal microtrauma rely entirely on the complex cellular architecture that evolved to protect metazoan life.
+5.8.4. AdaptationalPerspectives: The Benefits of Multicellularity
+Examining the vulnerabilities of the rectal mucosa concurrently illuminates the profound adaptationaladvantages conferred by multicellularity. The systemic responses to mucosal microtrauma rely entirely on the complex cellular architecture that evolved to protect metazoan life.
 Specialized Defense Barriers: 
-Unicellular organisms rely solely on a single plasma membrane for environmental defense. Multicellularity facilitated the evolution of vast, specialized anatomical barriers. The intestinal epithelium is a highly differentiated, tightly regulated cellular wall coated in mucins synthesized by specialized goblet cells. This barrier permits the human host to safely contain trillions of potentially lethal bacteria within the luminal compartment, segregating them from the sterile systemic circulation (Artis, 2008) .
+Unicellular organisms rely solely on a single plasma membrane for environmental defense. Multicellularity facilitated the adaptation of vast, specialized anatomical barriers. The intestinal epithelium is a highly differentiated, tightly regulated cellular wall coated in mucins synthesized by specialized goblet cells. This barrier permits the human host to safely contain trillions of potentially lethal bacteria within the luminal compartment, segregating them from the sterile systemic circulation (Artis, 2008) .
 Compartmentalized Immune Responses: 
 Multicellular organisms possess decentralized, highly specialized immune surveillance networks. Upon microtrauma in the rectal mucosa, localized dendritic cells act as specialized sentinels. They sample translocated antigens and secrete chemokines that direct circulating T cells to migrate specifically to that mucosal tissue, often utilizing specific gut-homing integrins (e.g., α4β7 and CD103). This allows the macro-organism to mount a robust, localized defense without inducing systemic inflammatory shock (Mowat, 2003) .
 Tissue Regeneration and Cellular Turnover: 
@@ -2195,14 +2192,14 @@ The Neuroendocrinology of Withdrawal:
 Acute withdrawal constitutes an extreme physiological stressor, characterized by severe hyperactivation of the hypothalamic-pituitary-adrenal (HPA) axis. The resulting surge in circulating cortisol and catecholamines further degrades mucosal integrity and exacerbates dysbiosis, propagating a continuous cycle of systemic stress (Foster et al., 2017) .
 Microbiome-Mediated Hyperalgesia: 
 A debilitating hallmark of acute opioid withdrawal is hyperalgesia (heightened nociceptive sensitivity). Preclinical murine models indicate that microbiome depletion profoundly exacerbates withdrawal-induced hyperalgesia. Conversely, targeted microbiome reconstitution, or the exogenous repletion of SCFAs, significantly attenuates both withdrawal-induced nociceptive sensitization and anxiogenic behaviors (Hofford et al., 2021) .  
-5.9.4. Evolutionary Biology: The Vulnerabilities of Multicellularity
-Conceptualizing addiction as a "hijacking" of the brain is clarified through the lens of evolutionary multicellularity. The biological systems targeted by drugs of abuse are the very evolutionary adaptations that enabled metazoan complexity.
+5.9.4. AdaptationalBiology: The Vulnerabilities of Multicellularity
+Conceptualizing addiction as a "hijacking" of the brain is clarified through the lens of adaptationalmulticellularity. The biological systems targeted by drugs of abuse are the very adaptationaladaptations that enabled metazoan complexity.
 The Centralization of Reward (The Mesolimbic Pathway): 
-Unicellular organisms navigate environmental gradients via rudimentary chemotaxis. Multicellularity necessitated the evolution of a highly centralized command architecture (the CNS) to coordinate complex survival behaviors. The mesolimbic dopamine system evolved to positively reinforce behaviors critical for survival and reproduction (e.g., caloric intake, mating). Exogenous drugs of abuse pharmacologically mimic and hyper-stimulate these specialized multicellular pathways, tricking the neural architecture into prioritizing chemical acquisition over fundamental survival requirements (Nesse & Berridge, 1997) .
+Unicellular organisms navigate environmental gradients via rudimentary chemotaxis. Multicellularity necessitated the adaptation of a highly centralized command architecture (the CNS) to coordinate complex survival behaviors. The mesolimbic dopamine system evolved to positively reinforce behaviors critical for survival and reproduction (e.g., caloric intake, mating). Exogenous drugs of abuse pharmacologically mimic and hyper-stimulate these specialized multicellular pathways, tricking the neural architecture into prioritizing chemical acquisition over fundamental survival requirements (Nesse & Berridge, 1997) .
 The Blood-Brain Barrier (BBB) as a Specialized Defense: 
 Multicellularity permitted the development of highly selective, specialized anatomical barriers. The BBB isolates and protects the delicate CNS microenvironment from systemic toxins. However, chronic substance abuse and the resulting gut-derived endotoxemia chronically inflame and compromise the BBB's integrity. Once breached, the CNS becomes highly susceptible to neurotoxicity, accelerating cognitive decline and entrenching dependence (Daneman & Prat, 2015) .
 The Enteric Nervous System (ENS) and Division of Labor: 
-Metazoan evolution relies on extreme cellular specialization. The mammalian gastrointestinal tract possesses an autonomous nervous system comprising hundreds of millions of neurons, maintaining constant bidirectional communication with the CNS via the vagus nerve. Substance abuse fundamentally disrupts this trans-organ communication network, precipitating the severe autonomic and gastrointestinal distress characteristic of acute withdrawal (Furness, 2012) .
+Metazoan adaptation relies on extreme cellular specialization. The mammalian gastrointestinal tract possesses an autonomous nervous system comprising hundreds of millions of neurons, maintaining constant bidirectional communication with the CNS via the vagus nerve. Substance abuse fundamentally disrupts this trans-organ communication network, precipitating the severe autonomic and gastrointestinal distress characteristic of acute withdrawal (Furness, 2012) .
 5.9.5. Conclusion
 Chronic substance use consistently drives a measurable ecological shift toward a pro-inflammatory, dysbiotic gut microbial community. This dysbiosis is not an incidental byproduct of addiction, but an active, mechanistic driver of the addiction cycle—mediating withdrawal severity, reward processing, and relapse vulnerability via the gut-brain axis. Recognizing the microbiome's role in this pathology presents a promising frontier in addiction medicine, suggesting that therapies targeting microbial multicellularity (e.g., pre/probiotics, SCFA repletion) may become critical adjunctive treatments for substance use disorders.
 
@@ -2274,8 +2271,8 @@ This research fundamentally redefines the human organism as a holobiont—a mult
 5. Final Synthesis
 
 Ultimately, the boundary between "self" and "other" dissolves at the mucosal surfaces of the human body. The human organism cannot be understood in isolation; rather, the human is the microbiome, and the microbiome is the human. This realization is not merely an academic exercise but carries profound implications for medicine and therapeutics. Effective treatment of chronic infections, metabolic diseases, neurodegenerative conditions, and psychiatric disorders will require strategies that modulate microbial multicellularity—targeting the structure, communication, and collective behavior of biofilms—rather than simply attempting to eradicate individual bacterial cells with conventional antibiotics.
-All the above features of bacterial biofilms that has been gathered and extrapolated during the pages and sections of this thorough review of bacterial multicellularity were directly extracted from religious scripts from the holy Quran and the true prophetic sayings. All those and some scientific evidences are compiled rearranged in another paper called : 
-The Opening from the All Knower, The Generous: a comparative study between microorganisms and Jinn
+All the above features of bacterial biofilms that has been gathered and extrapolated during the pages and sections of this thorough review of bacterial multicellularity were directly extracted from religious scripts from the holy Quran and the true prophetic sayings. All those and some scientific evidences are compiled rearranged in another paper called: 
+The Opening from the All Knower The Generous a comparative study between microorganisms and Jinn
 The review shows that the resemblance is utterly extensive and would clear and cut all the doubt of the those two being the same. Therefore, anyone interested in having more information regarding biofilms is advised to read and dive into that paper. This in turn show the extreme superiority of the Islamic religion in giving very sophisticated information in that time and would allow no except to believe in the Genuine of this religion from the ALLMIGHTY GOD ALLAH. 
 https://github.com/ranjmalak1982-jpg/The-Opening-from-the-All-Knower-The-Generous-a-comparative-study-between-microorganisms-and-Jinn.git  
 References 
@@ -2285,7 +2282,7 @@ References
 
 [3] Aging Cell. (2025). [Study on aging gut microbiota inducing cognitive impairment and hippocampal synapse loss]
 
-[4] Alcock J, Maley CC, Aktipis CA. Is eating behavior manipulated by the gastrointestinal microbiota? Evolutionary pressures and potential mechanisms. Bioessays (2014). Oct;36(10):940-9
+[4] Alcock J, Maley CC, Aktipis CA. Is eating behavior manipulated by the gastrointestinal microbiota? Adaptationalpressures and potential mechanisms. Bioessays (2014). Oct;36(10):940-9
 
 [5] Alexandra T.Payne, Abigail J.Davidson, JinjunKan, MarcPeipoch, RavenBier, KurtWilliamson. Widespread cryptic viral infections in lotic biofilms. Biofilm, Volume 2, December (2020), 100016 https://doi.org/10.1016/j.bioflm.2019.100016
 
@@ -2449,7 +2446,7 @@ References
 
 [85] Carbonero, F, Benefiel, A. C, Alizadeh-Ghamsari, A. H, & Gaskins, H. R. (2012). Microbial pathways in colonic sulfur metabolism and links with health and disease. Frontiers in Physiology, 3, Article 448 https://doi.org/10.3389/fphys.2012.00448
 
-[86] Carreira de Paula, J, García Olmedo, P, Gómez-Moracho, T. et al. Promastigote EPS secretion and haptomonad biofilm formation as evolutionary adaptations of trypanosomatid parasites for colonizing honeybee hosts. npj Biofilms Microbiomes 10, 27 (2024). https://doi.org/10.1038/s41522-024-00492-x
+[86] Carreira de Paula, J, García Olmedo, P, Gómez-Moracho, T. et al. Promastigote EPS secretion and haptomonad biofilm formation as adaptationaladaptations of trypanosomatid parasites for colonizing honeybee hosts. npj Biofilms Microbiomes 10, 27 (2024). https://doi.org/10.1038/s41522-024-00492-x
 
 [87] Castillo, H. (2023). Principles and platforms of microgravity simulation in microbial research. In Molecular biology and microbiology protocols for aerospace physiology. Embry-Riddle Aeronautical University
 
@@ -2557,7 +2554,7 @@ References
 
 [139] Deo PN, Deshmukh R. Oral microbiome: Unveiling the fundamentals. J Oral Maxillofac Pathol (2019). Jan-Apr;23(1):122-128
 
-[140] Derrien, M, Vaughan, E. E, Plugge, C. M, & de Vos, W. M. (2004). Akkermansia muciniphila gen. nov, sp. nov, a human intestinal mucin-degrading bacterium. International Journal of Systematic and Evolutionary Microbiology, 54(5), 1469-1476 https://doi.org/10.1099/ijs.0.02873-0
+[140] Derrien, M, Vaughan, E. E, Plugge, C. M, & de Vos, W. M. (2004). Akkermansia muciniphila gen. nov, sp. nov, a human intestinal mucin-degrading bacterium. International Journal of Systematic and AdaptationalMicrobiology, 54(5), 1469-1476 https://doi.org/10.1099/ijs.0.02873-0
 
 [141] Deveau A, Bonito G, Uehling J, Paoletti M, Becker M, Bindschedler S, Hacquard S, Hervé V, Labbé J, Lastovetsky OA, Mieszkin S, Millet LJ, Vajna B, Junier P, Bonfante P, Krom BP, Olsson S, van Elsas JD, Wick LY. Bacterial-fungal interactions: ecology, mechanisms and challenges. FEMS Microbiol Rev (2018). May 1;42(3):335-352. Cross reference
 
@@ -2861,7 +2858,7 @@ References
 
 [291] Korting HC, Lukacs A, Braun-Falco O. Mikrobielle Flora und Geruch der gesunden menschlichenHaut. Hautarzt (1988).; 39:564–568
 
-[292] Koskella, B, & Brockhurst, M. A. (2014). Bacteria-phage coevolution as a driver of ecological and evolutionary processes in microbial communities. FEMS Microbiology Reviews, 38(5), 916-931 https://doi.org/10.1111/1574-6976.12072
+[292] Koskella, B, & Brockhurst, M. A. (2014). Bacteria-phage coevolution as a driver of ecological and adaptationalprocesses in microbial communities. FEMS Microbiology Reviews, 38(5), 916-931 https://doi.org/10.1111/1574-6976.12072
 
 [293] Kowalski K, Mulak A. Brain-Gut-Microbiota Axis in Alzheimer's Disease. J Neurogastroenterol Motil (2019).;25(1):48-60
 
@@ -2889,7 +2886,7 @@ References
 
 [305] Lennon J. T, Lehmkuhl B. K. (2016). A trait-based approach to bacterial biofilms in soil. Environ. Microbiol. 18 2732–2742. 10.1111/1462-2920.13331
 
-[306] Lennon, J. T, & Jones, S. E. (2011). Microbial seed banks: The ecological and evolutionary implications of dormancy. Nature Reviews Microbiology, 9(2), 119-130
+[306] Lennon, J. T, & Jones, S. E. (2011). Microbial seed banks: The ecological and adaptationalimplications of dormancy. Nature Reviews Microbiology, 9(2), 119-130
 
 [307] Lewis, K. (2010). Persister cells. Annual Review of Microbiology, 64, 357-372
 
@@ -2981,7 +2978,7 @@ References
 
 [351] Marcia A. Ryder, Catheter-Related Infections: It's All About Biofilm. Posted: 08/18/ (2005).; Topics in Advanced Practice Nursing eJournal. 2005;5(3) © 2005 Medscape
 
-[352] Margulis, L. (1991). Symbiosis as a source of evolutionary innovation: Speciation and morphogenesis. Symbiosis, *11*(1), 93–101
+[352] Margulis, L. (1991). Symbiosis as a source of adaptationalinnovation: Speciation and morphogenesis. Symbiosis, *11*(1), 93–101
 
 [353] Margulis, L. (1967). On the origin of mitosing cells. Journal of Theoretical Biology, 14(3), 225-274 https://doi.org/10.1016/0022-5193(67)90079-3
 
@@ -3087,7 +3084,7 @@ References
 
 [404] Nelson, K. L, Boehm, A. B, Davies-Colley, R. J, Dodd, M. C, Kohn, T, Linden, K. G,. & Zepp, R. G. (2018). Sunlight-mediated inactivation of health-relevant microorganisms in water: a review of mechanisms and modeling approaches. *Environmental Science: Processes & Impacts*, *20*(8), 1089-1122
 
-[405] Nesse, R. M, & Berridge, K. C. (1997). Psychoactive drug use in evolutionary perspective. Science, 278(5335), 63-66 https://doi.org/10.1126/science.278.5335.63
+[405] Nesse, R. M, & Berridge, K. C. (1997). Psychoactive drug use in adaptationalperspective. Science, 278(5335), 63-66 https://doi.org/10.1126/science.278.5335.63
 
 [406] Neu U, Mainou BA. Virus interactions with bacteria: Partners in the infectious dance. PLoS Pathog (2020). Feb 11;16(2):e1008234
 
@@ -3283,7 +3280,7 @@ References
 
 [502] Shirogane Y, et al. Cooperation between different RNA virus genomes produces a new phenotype. Nat Commun (2012).;3 1235. [
 
-[503] Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, Lennon JT. Microbial population dynamics and evolutionary outcomes under extreme energy limitation. Proc Natl Acad Sci U S A (2021). Aug 17;118(33):e2101691118
+[503] Shoemaker WR, Jones SE, Muscarella ME, Behringer MG, Lehmkuhl BK, Lennon JT. Microbial population dynamics and adaptationaloutcomes under extreme energy limitation. Proc Natl Acad Sci U S A (2021). Aug 17;118(33):e2101691118
 
 [504] Sigal A, et al. Cell-to-cell spread of HIV permits ongoing replication despite antiretroviral therapy. Nature (2011).;477:95–98
 
@@ -3532,4 +3529,3 @@ References
 [626] Zoelzer, F, Burger, A.L. & Dierkes, P.W. Unraveling differences in fecal microbiota stability in mammals: from high variable carnivores and consistently stable herbivores. anim microbiome 3, 77 (2021). https://doi.org/10.1186/s42523-021-00141-0
 
 [627] Zusman, D. R, Scott, A. E, Yang, Z, & Kirby, J. R. (2007). Chemosensory pathways, motility and development in Myxococcus xanthus. Nature Reviews Microbiology, 5(11), 862-872
-
